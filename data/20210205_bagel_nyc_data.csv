@@ -1,0 +1,615 @@
+name,phone,review_count,price,food_type,rating,address,town,zip_search
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Bagels, Sandwiches, Coffee & Tea",4.5 star rating,455 W 34th St,Chelsea,10022
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10022
+1. Ess-a-Bagel,(347) 343-5728831 3rd AveMidtown East,3669,$,"$Bakeries, Bagels, Delis",4 star rating,831 3rd Ave,Midtown East,10022
+2. Best Bagel & Coffee,(212) 564-4409225 W 35th StMidtown West,3360,$,"$Bagels, Coffee & Tea, Breakfast & Brunch",4.5 star rating,225 W 35th St,Midtown West,10022
+3. NY Jumbo Bagels,(212) 355-61851070 2nd AveMidtown East,319,$,"$Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East,10022
+4. Bagel Market,(212) 681-6300425 Lexington AveMidtown East,4,,"Bagels, Salad, Sandwiches",5 star rating,425 Lexington Ave,Midtown East,10022
+5. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10022
+6. Tal Bagels,(212) 753-9080979 1st AveMidtown East,249,$,"$Bagels, Salad, Breakfast & Brunch",3.5 star rating,979 1st Ave,Midtown East,10022
+7. Liberty Bagels Midtown,(212) 279-1124260 W 35th StMidtown West,554,$,"$Breakfast & Brunch, Bagels, Sandwiches",4.5 star rating,260 W 35th St,Midtown West,10022
+8. Bagels & Schmear,(212) 725-7873116 E 28th StFlatiron,518,$,"$Bagels, Bakeries, Coffee & Tea",4 star rating,116 E 28th St,Flatiron,10022
+9. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10022
+10. Pick-A-Bagel,(212) 832-0051785 Lexington AveUpper East Side,146,$,"$Coffee & Tea, Bakeries, Bagels",2.5 star rating,785 Lexington Ave,Upper East Side,10022
+KOFI Coffee & Bakery,(646) 998-4400300 East 61st StUpper East Side,8,,"Bakeries, Coffee & Tea",4.5 star rating,300 East 61st St,Upper East Side,10022
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Bagels, Sandwiches, Coffee & Tea",4.5 star rating,455 W 34th St,Chelsea,10022
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10022
+11. NY Bagels & Cafe,(212) 725-3777587 1st AveMurray Hill,216,$,"$Bagels, Breakfast & Brunch, Sandwiches",4 star rating,587 1st Ave,Murray Hill,10022
+12. Zucker’s Bagels & Smoked Fish,(212) 661-1080370 Lexington AveMidtown East,512,$$,"$$Bagels, Breakfast & Brunch, Delis",3 star rating,370 Lexington Ave,Midtown East,10022
+13. Chelsea Bagel Of Tudor City,(212) 368-7777800 2nd AveMidtown East,104,$,"$Bagels, Cafes",3.5 star rating,800 2nd Ave,Midtown East,10022
+14. Blue & Gold Deli,(212) 755-55051075 1st AveMidtown East,26,$,"$Sandwiches, Coffee & Tea, Bagels",4 star rating,1075 1st Ave,Midtown East,10022
+15. Pick A Bagel,(212) 582-8333891 8th AveTheater District,894,$$,"$$Bagels, Cafes",3.5 star rating,891 8th Ave,Theater District,10022
+16. Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,$$,"$$Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10022
+17. Daily Bagel,(212) 371-49071111 First AveUpper East Side,109,$,"$Coffee & Tea, Bagels",2.5 star rating,1111 First Ave,Upper East Side,10022
+18. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10022
+19. Black Seed Bagels,30 Rockefeller PlzMidtown West,27,,Bagels,2 star rating,30 Rockefeller Plz,Midtown West,10022
+20. Bagel Boss Murray Hill,(646) 368-1880544 3rd AveMurray Hill,148,$,"$Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,544 3rd Ave,Murray Hill,10022
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Coffee & Tea, Candy Stores",4.5 star rating,201 Bleecker St,Greenwich Village,10022
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Coffee & Tea, Sandwiches, Bagels",4.5 star rating,455 W 34th St,Chelsea,10022
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Sandwiches, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10022
+21. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10022
+22. 57th Bagels And More,(929) 461-7802877 10th AveHell's Kitchen,8,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,877 10th Ave,Hell's Kitchen,10022
+23. Milk ‘N Honey NYC,(212) 764-440012 E 46th StMidtown East,109,$,"$Pizza, Bagels, Kosher",3 star rating,12 E 46th St,Midtown East,10022
+24. NINO’S COFFEE & GRILL,(929) 500-838944 St & 6 AveTheater District,12,,"Coffee & Tea, Breakfast & Brunch, Bagels",5 star rating,44 St & 6 Ave,Theater District,10022
+25. Black Seed Bagels,(646) 915-15001188 BroadwayFlatiron,111,$$,"$$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,1188 Broadway,Flatiron,10022
+26. Gourmet Bagel,(212) 535-3030874 Lexington AveUpper East Side,69,$,"$Bagels, Breakfast & Brunch",2.5 star rating,874 Lexington Ave,Upper East Side,10022
+27. Sable’s Smoked Fish,(212) 249-61771330 3rd AveUpper East Side,250,$$,"$$Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side,10022
+28. Daniel’s Bagels,(212) 972-9733569 3rd AveMurray Hill,232,$,"$Bagels, Breakfast & Brunch, Sandwiches",3 star rating,569 3rd Ave,Murray Hill,10022
+29. Bagels & Co.,(212) 717-05051428 York AveUpper East Side,48,$,"$Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side,10022
+30. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10022
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Coffee & Tea, Candy Stores",4.5 star rating,201 Bleecker St,Greenwich Village,10022
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10023
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10023
+1. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10023
+2. Ess-a-Bagel,(347) 343-5728831 3rd AveMidtown East,3669,$,"$Bakeries, Bagels, Delis",4 star rating,831 3rd Ave,Midtown East,10023
+3. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10023
+4. Zabar’s,(212) 787-20002245 BroadwayUpper West Side,1020,$$,"$$Bakeries, Coffee & Tea, Bagels",4 star rating,2245 Broadway,Upper West Side,10023
+5. Bagels & Co,(212) 496-9400391 Amsterdam AveUpper West Side,91,$,$Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side,10023
+6. 57th Bagels And More,(929) 461-7802877 10th AveHell's Kitchen,8,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,877 10th Ave,Hell's Kitchen,10023
+7. Pick A Bagel,(212) 582-8333891 8th AveTheater District,894,$$,"$$Bagels, Cafes",3.5 star rating,891 8th Ave,Theater District,10023
+8. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10023
+9. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10023
+10. Bagel Talk,(212) 875-1267368 Amsterdam AveUpper West Side,244,$,$Bagels,3 star rating,368 Amsterdam Ave,Upper West Side,10023
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10023
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10023
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Sandwiches, Coffee & Tea, Bagels",4.5 star rating,455 W 34th St,Chelsea,10023
+11. Pick A Bagel,(212) 767-020839 W End AveUpper West Side,133,$,"$Bagels, Sandwiches",2.5 star rating,39 W End Ave,Upper West Side,10023
+12. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10023
+13. NY Jumbo Bagels,(212) 355-61851070 2nd AveMidtown East,319,$,"$Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East,10023
+14. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10023
+15. The Jolly Goat Coffee Bar,(646) 509-8957515 W 47th StHell's Kitchen,351,$,"$Coffee & Tea, Cafes, Bagels",4.5 star rating,515 W 47th St,Hell's Kitchen,10023
+16. H&H Bagels,(212) 498-9828526 Columbus AveUpper West Side,190,$$,"$$Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side,10023
+17. Skyline Gourmet Deli,(212) 459-2500700 10th AveHell's Kitchen,107,$,"$Delis, Coffee & Tea, Bagels",4 star rating,700 10th Ave,Hell's Kitchen,10023
+18. Pick-A-Bagel,(212) 832-0051785 Lexington AveUpper East Side,146,$,"$Coffee & Tea, Bakeries, Bagels",2.5 star rating,785 Lexington Ave,Upper East Side,10023
+19. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10023
+20. Tal Bagels,(212) 753-9080979 1st AveMidtown East,249,$,"$Bagels, Salad, Breakfast & Brunch",3.5 star rating,979 1st Ave,Midtown East,10023
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10023
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10023
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10023
+21. Hudson Bagel,(212) 245-1200691 9th AveHell's Kitchen,60,$,$Bagels,3 star rating,691 9th Ave,Hell's Kitchen,10023
+22. Sable’s Smoked Fish,(212) 249-61771330 3rd AveUpper East Side,250,$$,"$$Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side,10023
+23. Finn’s Bagels,(212) 273-0700477 10th AveMidtown West,64,,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,477 10th Ave,Midtown West,10023
+24. Black Seed Bagels,30 Rockefeller PlzMidtown West,27,,Bagels,2 star rating,30 Rockefeller Plz,Midtown West,10023
+25. Pick-A-Bagel,(212) 717-46681475 2nd AveUpper East Side,251,$,"$Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,1475 2nd Ave,Upper East Side,10023
+26. Tal Bagels,(212) 712-01712446 BroadwayUpper West Side,201,$,$Bagels,2.5 star rating,2446 Broadway,Upper West Side,10023
+27. Andy’s Deli,(212) 799-3355418 Columbus AveUpper West Side,76,$,"$Grocery, Bagels, Delis",3.5 star rating,418 Columbus Ave,Upper West Side,10023
+28. Park Avenue Bagels,(201) 210-41117015 Park Ave,80,$,"$Bagels, Sandwiches, Breakfast & Brunch",4 star rating,7015 Park Ave,,10023
+29. Blue & Gold Deli,(212) 755-55051075 1st AveMidtown East,26,$,"$Sandwiches, Coffee & Tea, Bagels",4 star rating,1075 1st Ave,Midtown East,10023
+30. Gourmet Bagel,(212) 535-3030874 Lexington AveUpper East Side,69,$,"$Bagels, Breakfast & Brunch",2.5 star rating,874 Lexington Ave,Upper East Side,10023
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Coffee & Tea, Sandwiches, Bagels",4.5 star rating,455 W 34th St,Chelsea,10023
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10024
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10024
+1. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10024
+2. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10024
+3. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10024
+4. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10024
+5. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10024
+6. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10024
+7. Zabar’s,(212) 787-20002245 BroadwayUpper West Side,1020,$$,"$$Bakeries, Coffee & Tea, Bagels",4 star rating,2245 Broadway,Upper West Side,10024
+8. Park Avenue Bagels,(201) 210-41117015 Park Ave,80,$,"$Bagels, Sandwiches, Breakfast & Brunch",4 star rating,7015 Park Ave,,10024
+9. J & J Bagel,(201) 941-7100576 Bergen Blvd,56,$,"$Delis, Bagels",4 star rating,576 Bergen Blvd,,10024
+10. Bagels on Park,(201) 330-06253506 Park Ave,74,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,3506 Park Ave,,10024
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10024
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10024
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Sandwiches, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10024
+11. Bagels & Co,(212) 496-9400391 Amsterdam AveUpper West Side,91,$,$Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side,10024
+12. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10024
+13. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10024
+14. H&H Bagels,(212) 498-9828526 Columbus AveUpper West Side,190,$$,"$$Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side,10024
+15. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10024
+16. Tal Bagels,(212) 712-01712446 BroadwayUpper West Side,201,$,$Bagels,2.5 star rating,2446 Broadway,Upper West Side,10024
+17. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10024
+18. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10024
+19. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10024
+20. Bagel Talk,(212) 875-1267368 Amsterdam AveUpper West Side,244,$,$Bagels,3 star rating,368 Amsterdam Ave,Upper West Side,10024
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10024
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10024
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Sandwiches, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10024
+21. Joan’s Bagel And Deli Shop,(201) 945-4020672 Shaler Blvd,19,$,"$Bagels, Delis, Grocery",4 star rating,672 Shaler Blvd,,10024
+22. Three Star Bagels,(201) 224-3745270 Columbia Ave,55,$$,"$$Bagels, Delis",3 star rating,270 Columbia Ave,,10024
+23. Blvd Juice & Grill,(201) 941-4100684 Bergen Blvd,10,,"Sandwiches, Bagels, Wraps",4.5 star rating,684 Bergen Blvd,,10024
+24. Columbus Cafe,(212) 721-9040556 Columbus AveUpper West Side,50,$,"$Bagels, Delis",3.5 star rating,556 Columbus Ave,Upper West Side,10024
+25. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10024
+26. Metropolitan Cafe,(201) 313-3325153 Bergen Blvd,78,$,"$Bagels, Burgers, Delis",3.5 star rating,153 Bergen Blvd,,10024
+27. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10024
+28. 94 Corner Cafe,(212) 280-19002518 BroadwayUpper West Side,132,$,"$Pizza, Sandwiches, Bagels",3 star rating,2518 Broadway,Upper West Side,10024
+29. Bagel and Bagel,(201) 941-5626775 Edgewater Ave,7,$,"$Bagels, Sandwiches",3.5 star rating,775 Edgewater Ave,,10024
+30. New York City Bagel & Coffee House,(718) 777-03242910 BroadwayAstoria,44,$,"$Sandwiches, Coffee & Tea, Bagels",3.5 star rating,2910 Broadway,Astoria,10024
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10024
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10025
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10025
+1. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10025
+2. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10025
+3. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10025
+4. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10025
+5. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10025
+6. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10025
+7. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10025
+8. J & J Bagel,(201) 941-7100576 Bergen Blvd,56,$,"$Delis, Bagels",4 star rating,576 Bergen Blvd,,10025
+9. Zabar’s,(212) 787-20002245 BroadwayUpper West Side,1020,$$,"$$Bakeries, Coffee & Tea, Bagels",4 star rating,2245 Broadway,Upper West Side,10025
+10. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10025
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10025
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10025
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10025
+11. Park Avenue Bagels,(201) 210-41117015 Park Ave,80,$,"$Bagels, Sandwiches, Breakfast & Brunch",4 star rating,7015 Park Ave,,10025
+12. Bagels & Co,(212) 496-9400391 Amsterdam AveUpper West Side,91,$,$Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side,10025
+13. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10025
+14. H&H Bagels,(212) 498-9828526 Columbus AveUpper West Side,190,$$,"$$Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side,10025
+15. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10025
+16. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10025
+17. Tal Bagels,(212) 712-01712446 BroadwayUpper West Side,201,$,$Bagels,2.5 star rating,2446 Broadway,Upper West Side,10025
+18. Three Star Bagels,(201) 224-3745270 Columbia Ave,55,$$,"$$Bagels, Delis",3 star rating,270 Columbia Ave,,10025
+19. Joan’s Bagel And Deli Shop,(201) 945-4020672 Shaler Blvd,19,$,"$Bagels, Delis, Grocery",4 star rating,672 Shaler Blvd,,10025
+20. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10025
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10025
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10025
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10025
+21. Blvd Juice & Grill,(201) 941-4100684 Bergen Blvd,10,,"Sandwiches, Bagels, Wraps",4.5 star rating,684 Bergen Blvd,,10025
+22. Bagel Talk,(212) 875-1267368 Amsterdam AveUpper West Side,244,$,$Bagels,3 star rating,368 Amsterdam Ave,Upper West Side,10025
+23. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10025
+24. Columbus Cafe,(212) 721-9040556 Columbus AveUpper West Side,50,$,"$Bagels, Delis",3.5 star rating,556 Columbus Ave,Upper West Side,10025
+25. Metropolitan Cafe,(201) 313-3325153 Bergen Blvd,78,$,"$Bagels, Burgers, Delis",3.5 star rating,153 Bergen Blvd,,10025
+26. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10025
+27. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10025
+28. New York City Bagel & Coffee House,(718) 777-03242910 BroadwayAstoria,44,$,"$Sandwiches, Coffee & Tea, Bagels",3.5 star rating,2910 Broadway,Astoria,10025
+29. Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,$,"$Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville,10025
+30. Bagels & Co.,(212) 717-05051428 York AveUpper East Side,48,$,"$Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side,10025
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10025
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10026
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10026
+1. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10026
+2. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10026
+3. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10026
+4. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10026
+5. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10026
+6. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10026
+7. Yorkville Bagel & Cafe,(212) 996-65441821 2nd AveYorkville,98,$,"$Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville,10026
+8. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10026
+9. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10026
+10. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10026
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10026
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10026
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10026
+11. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10026
+12. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10026
+13. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10026
+14. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10026
+15. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10026
+16. Bagels & Co,(212) 496-9400391 Amsterdam AveUpper West Side,91,$,$Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side,10026
+17. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10026
+18. H&H Bagels,(212) 498-9828526 Columbus AveUpper West Side,190,$$,"$$Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side,10026
+19. Tal Bagels,(212) 712-01712446 BroadwayUpper West Side,201,$,$Bagels,2.5 star rating,2446 Broadway,Upper West Side,10026
+20. Columbus Cafe,(212) 721-9040556 Columbus AveUpper West Side,50,$,"$Bagels, Delis",3.5 star rating,556 Columbus Ave,Upper West Side,10026
+Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,,"Bagels, Cafes, Coffee & Tea",3.5 star rating,1641 York Ave,Yorkville,10026
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10026
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Bagels, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10026
+21. Andy’s Deli,(212) 799-3355418 Columbus AveUpper West Side,76,$,"$Grocery, Bagels, Delis",3.5 star rating,418 Columbus Ave,Upper West Side,10026
+22. 94 Corner Cafe,(212) 280-19002518 BroadwayUpper West Side,132,$,"$Pizza, Sandwiches, Bagels",3 star rating,2518 Broadway,Upper West Side,10026
+23. Russ & Daughters at the Jewish Museum - Temp. CLOSED,(212) 475-4880Located in The Jewish MuseumUpper East Side,108,$$,"$$Kosher, Bagels, Sandwiches",3.5 star rating,,Upper East Side,10026
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Bagels, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10027
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10027
+1. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10027
+2. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10027
+3. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10027
+4. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10027
+5. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10027
+6. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10027
+7. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10027
+8. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10027
+9. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10027
+10. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10027
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Sandwiches, Bagels, Coffee & Tea",4.5 star rating,455 W 34th St,Chelsea,10027
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10027
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10027
+11. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10027
+12. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10027
+13. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10027
+14. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10027
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10027
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10027
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10028
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10028
+1. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10028
+2. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10028
+3. Tal Bagels,(212) 427-6811333 E 86th StYorkville,398,$,"$Bagels, Delis",3 star rating,333 E 86th St,Yorkville,10028
+4. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10028
+5. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10028
+6. Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,$,"$Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville,10028
+7. Pick-A-Bagel,(212) 717-46681475 2nd AveUpper East Side,251,$,"$Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,1475 2nd Ave,Upper East Side,10028
+8. Eastside Bagel & Appetizing,(212) 794-16551496 1st AveUpper East Side,89,$,$Bagels,2.5 star rating,1496 1st Ave,Upper East Side,10028
+9. Bagels & Co.,(212) 717-05051428 York AveUpper East Side,48,$,"$Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side,10028
+10. Yorkville Bagel & Cafe,(212) 996-65441821 2nd AveYorkville,98,$,"$Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville,10028
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10028
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10028
+Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,,"Bagels, Cafes, Coffee & Tea",3.5 star rating,1641 York Ave,Yorkville,10028
+11. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10028
+12. Sable’s Smoked Fish,(212) 249-61771330 3rd AveUpper East Side,250,$$,"$$Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side,10028
+13. New York Hot & Fresh Bagels,(212) 348-43951585 3rd AveYorkville,71,$,"$Bagels, Delis",3 star rating,1585 3rd Ave,Yorkville,10028
+14. The Bagel Mill,(212) 426-08681700 1st AveYorkville,120,$,"$Bagels, Sandwiches, Coffee & Tea",2.5 star rating,1700 1st Ave,Yorkville,10028
+15. Moduwa York 84,(917) 261-54541592 York AveYorkville,28,,"Delis, Bagels",4 star rating,1592 York Ave,Yorkville,10028
+16. Bagels & More,1585 3rd AveYorkville,27,,Bagels,3 star rating,1585 3rd Ave,Yorkville,10028
+17. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10028
+18. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10028
+19. NY Jumbo Bagels,(212) 355-61851070 2nd AveMidtown East,319,$,"$Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East,10028
+20. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10028
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10028
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10028
+Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,,"Coffee & Tea, Cafes, Bagels",3.5 star rating,1641 York Ave,Yorkville,10028
+21. Dawa 91,(646) 833-72221748 2nd AveYorkville,29,$,"$Delis, Bagels, Grocery",3 star rating,1748 2nd Ave,Yorkville,10028
+22. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10028
+23. Bagels & Co,(212) 496-9400391 Amsterdam AveUpper West Side,91,$,$Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side,10028
+24. Pick-A-Bagel,(212) 832-0051785 Lexington AveUpper East Side,146,$,"$Coffee & Tea, Bakeries, Bagels",2.5 star rating,785 Lexington Ave,Upper East Side,10028
+25. H&H Bagels,(212) 498-9828526 Columbus AveUpper West Side,190,$$,"$$Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side,10028
+26. Blue & Gold Deli,(212) 755-55051075 1st AveMidtown East,26,$,"$Sandwiches, Coffee & Tea, Bagels",4 star rating,1075 1st Ave,Midtown East,10028
+27. Daily Bagel,(212) 371-49071111 First AveUpper East Side,109,$,"$Coffee & Tea, Bagels",2.5 star rating,1111 First Ave,Upper East Side,10028
+28. Black Seed Bagels,30 Rockefeller PlzMidtown West,27,,Bagels,2 star rating,30 Rockefeller Plz,Midtown West,10028
+29. Bagel Talk,(212) 875-1267368 Amsterdam AveUpper West Side,244,$,$Bagels,3 star rating,368 Amsterdam Ave,Upper West Side,10028
+30. Gourmet Bagel,(212) 535-3030874 Lexington AveUpper East Side,69,$,"$Bagels, Breakfast & Brunch",2.5 star rating,874 Lexington Ave,Upper East Side,10028
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10028
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10029
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10029
+1. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10029
+2. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10029
+3. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10029
+4. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10029
+5. Yorkville Bagel & Cafe,(212) 996-65441821 2nd AveYorkville,98,$,"$Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville,10029
+6. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10029
+7. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10029
+8. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10029
+9. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10029
+10. Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,$,"$Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville,10029
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Sandwiches, Bagels, Coffee & Tea",4.5 star rating,455 W 34th St,Chelsea,10029
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10029
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10029
+11. Tal Bagels,(212) 427-6811333 E 86th StYorkville,398,$,"$Bagels, Delis",3 star rating,333 E 86th St,Yorkville,10029
+12. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10029
+13. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10029
+14. New York Hot & Fresh Bagels,(212) 348-43951585 3rd AveYorkville,71,$,"$Bagels, Delis",3 star rating,1585 3rd Ave,Yorkville,10029
+15. Sable’s Smoked Fish,(212) 249-61771330 3rd AveUpper East Side,250,$$,"$$Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side,10029
+16. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10029
+17. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10029
+18. Dawa 91,(646) 833-72221748 2nd AveYorkville,29,$,"$Delis, Bagels, Grocery",3 star rating,1748 2nd Ave,Yorkville,10029
+19. The Bagel Mill,(212) 426-08681700 1st AveYorkville,120,$,"$Bagels, Sandwiches, Coffee & Tea",2.5 star rating,1700 1st Ave,Yorkville,10029
+20. Bagels & More,1585 3rd AveYorkville,27,,Bagels,3 star rating,1585 3rd Ave,Yorkville,10029
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Bagels, Coffee & Tea, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10029
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10029
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10029
+21. Moduwa York 84,(917) 261-54541592 York AveYorkville,28,,"Delis, Bagels",4 star rating,1592 York Ave,Yorkville,10029
+22. Russ & Daughters at the Jewish Museum - Temp. CLOSED,(212) 475-4880Located in The Jewish MuseumUpper East Side,108,$$,"$$Kosher, Bagels, Sandwiches",3.5 star rating,,Upper East Side,10029
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10030
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10030
+1. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10030
+2. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10030
+3. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10030
+4. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10030
+5. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10030
+6. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10030
+7. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10030
+8. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10030
+9. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10030
+10. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10030
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10030
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Sandwiches, Breakfast & Brunch, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10030
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10030
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10030
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10030
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10031
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Pizza, Sandwiches, Coffee & Tea",3.5 star rating,3594 Broadway,Harlem,10031
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10031
+2. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10031
+3. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10031
+4. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10031
+5. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10031
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10031
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Sandwiches, Coffee & Tea, Pizza",3.5 star rating,3594 Broadway,Harlem,10031
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10031
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Sandwiches, Coffee & Tea, Pizza",3.5 star rating,3594 Broadway,Harlem,10031
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10032
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10032
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10032
+2. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10032
+3. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10032
+4. Inwood Bagels,(212) 569-7770628 W 207th StInwood,95,$,$Bagels,3.5 star rating,628 W 207th St,Inwood,10032
+5. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10032
+6. Bergen Boulevard Bagels,(201) 944-9003438 Bergen Blvd,106,$,$Bagels,4 star rating,438 Bergen Blvd,,10032
+7. Dichter Pharmacy & Soda Shoppe,(212) 569-12304953 BroadwayInwood,46,$,"$Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood,10032
+8. Lemoine Hot Bagels Deli,(201) 585-19882455 Lemoine Ave,30,$,$Bagels,3.5 star rating,2455 Lemoine Ave,,10032
+9. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10032
+10. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10032
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Coffee & Tea, Sandwiches, Pizza",3.5 star rating,3594 Broadway,Harlem,10032
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10032
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10032
+11. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10032
+12. Palisade Bagel,(201) 363-88991611 Palisade Ave,68,$,"$Bagels, Wraps, Sandwiches",3 star rating,1611 Palisade Ave,,10032
+13. Three Star Bagels,(201) 224-3745270 Columbia Ave,55,$$,"$$Bagels, Delis",3 star rating,270 Columbia Ave,,10032
+14. Binghamton Bagel & Deli,(201) 947-00032151 Lemoine Ave,91,$,"$Bagels, Delis, Sandwiches",3 star rating,2151 Lemoine Ave,,10032
+15. Mrs. Bagelsworth,(201) 224-35501209 Anderson Ave,28,$,"$Cuban, Delis, Bagels",4 star rating,1209 Anderson Ave,,10032
+16. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10032
+17. Blvd Juice & Grill,(201) 941-4100684 Bergen Blvd,10,,"Sandwiches, Bagels, Wraps",4.5 star rating,684 Bergen Blvd,,10032
+18. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10032
+19. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10032
+20. Carreon’s Deli and Bakery,(917) 924-12334975 BroadwayInwood,14,$,"$Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood,10032
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10032
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10032
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10032
+21. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10032
+22. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10032
+23. Yum-Yum,(201) 840-9998677 Anderson Ave,29,$,"$Ice Cream & Frozen Yogurt, Bagels",3.5 star rating,677 Anderson Ave,,10032
+24. Perista Cafe,(646) 490-5111158 Dyckman StWashington Heights,7,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights,10032
+25. Park Terrace Deli,(212) 569-5990510 W 218th StInwood,79,$,"$Delis, Bagels",3.5 star rating,510 W 218th St,Inwood,10032
+26. Bagel Buddies,(201) 886-97921365 Inwood Ter,,,Bagels,,1365 Inwood Ter,,10032
+27. Ginbos Hamburger House,(347) 963-4644118 E 170th StConcourse,23,$,"$Burgers, Sandwiches, Bagels",3 star rating,118 E 170th St,Concourse,10032
+28. Center Bagel Store,(201) 346-15511415 Center Ave,,,Bagels,,1415 Center Ave,,10032
+29. Lehman College Harmony Café,250 W Bedford Park Blvd,3,$$$,"$$$Bagels, Coffee & Tea",4.5 star rating,250 W Bedford Park Blvd,,10032
+"30. Stroni’s Pizza, Wings, and Things",(347) 918-9737283 E 170th StConcourse,3,,"Bagels, Pizza",2.5 star rating,283 E 170th St,Concourse,10032
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10032
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10033
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10033
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10033
+2. Inwood Bagels,(212) 569-7770628 W 207th StInwood,95,$,$Bagels,3.5 star rating,628 W 207th St,Inwood,10033
+3. Dichter Pharmacy & Soda Shoppe,(212) 569-12304953 BroadwayInwood,46,$,"$Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood,10033
+4. Carreon’s Deli and Bakery,(917) 924-12334975 BroadwayInwood,14,$,"$Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood,10033
+5. Perista Cafe,(646) 490-5111158 Dyckman StWashington Heights,7,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights,10033
+6. Park Terrace Deli,(212) 569-5990510 W 218th StInwood,79,$,"$Delis, Bagels",3.5 star rating,510 W 218th St,Inwood,10033
+7. Ginbos Hamburger House,(347) 963-4644118 E 170th StConcourse,23,$,"$Burgers, Sandwiches, Bagels",3 star rating,118 E 170th St,Concourse,10033
+"8. Stroni’s Pizza, Wings, and Things",(347) 918-9737283 E 170th StConcourse,3,,"Bagels, Pizza",2.5 star rating,283 E 170th St,Concourse,10033
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10033
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10033
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10033
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10033
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10034
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10034
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10034
+2. Inwood Bagels,(212) 569-7770628 W 207th StInwood,95,$,$Bagels,3.5 star rating,628 W 207th St,Inwood,10034
+3. Dichter Pharmacy & Soda Shoppe,(212) 569-12304953 BroadwayInwood,46,$,"$Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood,10034
+4. Carreon’s Deli and Bakery,(917) 924-12334975 BroadwayInwood,14,$,"$Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood,10034
+5. Lemoine Hot Bagels Deli,(201) 585-19882455 Lemoine Ave,30,$,$Bagels,3.5 star rating,2455 Lemoine Ave,,10034
+6. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10034
+7. Perista Cafe,(646) 490-5111158 Dyckman StWashington Heights,7,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights,10034
+8. Rolen Bagels,(718) 601-53573601 Riverdale AveRiverdale,37,$,$Bagels,3 star rating,3601 Riverdale Ave,Riverdale,10034
+9. Manhattan Bagel,(201) 816-000814 West Palisade Ave,86,$,"$Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,14 West Palisade Ave,,10034
+10. Cafeccino Bakery,(718) 210-0579269 W 231st StKingsbridge,24,$,"$Cafes, Bagels, Pizza",4 star rating,269 W 231st St,Kingsbridge,10034
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10034
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10034
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Sandwiches, Bagels",3.5 star rating,108 W 32nd St,Midtown West,10034
+11. Binghamton Bagel & Deli,(201) 947-00032151 Lemoine Ave,91,$,"$Bagels, Delis, Sandwiches",3 star rating,2151 Lemoine Ave,,10034
+12. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10034
+13. Palisade Bagel,(201) 363-88991611 Palisade Ave,68,$,"$Bagels, Wraps, Sandwiches",3 star rating,1611 Palisade Ave,,10034
+14. Gourmet Market and Bagel,(718) 549-10395993 BroadwayFieldston,13,$,"$Delis, Bagels, Grocery",3.5 star rating,5993 Broadway,Fieldston,10034
+15. 9W Gourmet Deli,(201) 503-9000476 Sylvan Ave,29,$,"$Coffee & Tea, Bagels, Delis",3 star rating,476 Sylvan Ave,,10034
+16. Park Terrace Deli,(212) 569-5990510 W 218th StInwood,79,$,"$Delis, Bagels",3.5 star rating,510 W 218th St,Inwood,10034
+17. Simon’s Deli & Bagels,(718) 562-33542479 Arthur AveBelmont,32,$,"$Delis, Sandwiches, Bagels",3 star rating,2479 Arthur Ave,Belmont,10034
+18. Mister Bagel of Broadway,(718) 549-04085672 BroadwayKingsbridge,,,Bagels,,5672 Broadway,Kingsbridge,10034
+19. Bagel Express,(201) 568-6191264 Grand Ave,21,$,"$Bagels, Burgers, Delis",2.5 star rating,264 Grand Ave,,10034
+20. Sun Bagels,(718) 519-17803405 Jerome AveNorwood,,,Bagels,,3405 Jerome Ave,Norwood,10034
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10034
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10034
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10034
+21. Bronx Gourmet Deli,(718) 561-1334921 E 180th StEast Tremont,,,"Restaurants, Coffee & Tea, Bagels",,921 E 180th St,East Tremont,10034
+22. Bagel Buddies,(201) 886-97921365 Inwood Ter,,,Bagels,,1365 Inwood Ter,,10034
+23. Ginbos Hamburger House,(347) 963-4644118 E 170th StConcourse,23,$,"$Burgers, Sandwiches, Bagels",3 star rating,118 E 170th St,Concourse,10034
+24. Center Bagel Store,(201) 346-15511415 Center Ave,,,Bagels,,1415 Center Ave,,10034
+25. Lehman College Harmony Café,250 W Bedford Park Blvd,3,$$$,"$$$Bagels, Coffee & Tea",4.5 star rating,250 W Bedford Park Blvd,,10034
+"26. Stroni’s Pizza, Wings, and Things",(347) 918-9737283 E 170th StConcourse,3,,"Bagels, Pizza",2.5 star rating,283 E 170th St,Concourse,10034
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10035
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10035
+1. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10035
+2. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10035
+3. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10035
+4. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10035
+5. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10035
+6. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10035
+7. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10035
+8. Yorkville Bagel & Cafe,(212) 996-65441821 2nd AveYorkville,98,$,"$Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville,10035
+9. New York City Bagel Coffee House,(718) 728-950029-08 23rd AveAstoria,373,$$,$$Bagels,4 star rating,29-08 23rd Ave,Astoria,10035
+10. Brooklyn Bagel & Coffee Company,(718) 932-828035-09 Ditmars BlvdAstoria,431,$,"$Coffee & Tea, Bagels, Breakfast & Brunch",4 star rating,35-09 Ditmars Blvd,Astoria,10035
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10035
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10035
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10035
+11. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10035
+12. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10035
+13. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10035
+14. Astoria Bagel Shop & Deli,(718) 728-51692812 Ditmars BlvdAstoria,155,$,"$Delis, Bagels, Breakfast & Brunch",4 star rating,2812 Ditmars Blvd,Astoria,10035
+15. Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,$,"$Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville,10035
+16. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10035
+17. Brooklyn Bagel & Coffee Company,(718) 204-014135-05 BroadwayAstoria,710,$,"$Bagels, Coffee & Tea",4.5 star rating,35-05 Broadway,Astoria,10035
+18. Broad Nosh Bagels,2350 BroadwayUpper West Side,18,,Bagels,4.5 star rating,2350 Broadway,Upper West Side,10035
+19. Tal Bagels,(212) 427-6811333 E 86th StYorkville,398,$,"$Bagels, Delis",3 star rating,333 E 86th St,Yorkville,10035
+20. Zabar’s,(212) 787-20002245 BroadwayUpper West Side,1020,$$,"$$Bakeries, Coffee & Tea, Bagels",4 star rating,2245 Broadway,Upper West Side,10035
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10035
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10035
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10035
+21. Modern Bread and Bagel,(646) 775-2985472 Columbus AveUpper West Side,162,$$,"$$Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side,10035
+22. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10035
+23. Barney Greengrass,(212) 724-4707541 Amsterdam AveUpper West Side,761,$$,"$$Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side,10035
+24. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10035
+25. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10035
+26. Bagels & Co.,(212) 717-05051428 York AveUpper East Side,48,$,"$Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side,10035
+27. Brooklyn Bagel & Coffee Company,(718) 777-112136-14 30th AveAstoria,473,$,"$Coffee & Tea, Bagels",4 star rating,36-14 30th Ave,Astoria,10035
+28. New York City Bagel & Coffee House,(718) 777-03242910 BroadwayAstoria,44,$,"$Sandwiches, Coffee & Tea, Bagels",3.5 star rating,2910 Broadway,Astoria,10035
+29. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10035
+30. New York Hot & Fresh Bagels,(212) 348-43951585 3rd AveYorkville,71,$,"$Bagels, Delis",3 star rating,1585 3rd Ave,Yorkville,10035
+Tres Leches Cafe,(646) 559-0176356 E 112th StEast Harlem,141,,"Desserts, Bakeries, Latin American",5 star rating,356 E 112th St,East Harlem,10035
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10036
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Bagels, Coffee & Tea, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10036
+1. Best Bagel & Coffee,(212) 564-4409225 W 35th StMidtown West,3360,$,"$Bagels, Coffee & Tea, Breakfast & Brunch",4.5 star rating,225 W 35th St,Midtown West,10036
+2. Liberty Bagels Midtown,(212) 279-1124260 W 35th StMidtown West,554,$,"$Breakfast & Brunch, Bagels, Sandwiches",4.5 star rating,260 W 35th St,Midtown West,10036
+3. Ess-a-Bagel,(347) 343-5728831 3rd AveMidtown East,3669,$,"$Bakeries, Bagels, Delis",4 star rating,831 3rd Ave,Midtown East,10036
+4. Brooklyn Bagel & Coffee Company,(212) 924-2824286 8th AveChelsea,1470,$,"$Bagels, Breakfast & Brunch, Cafes",4 star rating,286 8th Ave,Chelsea,10036
+5. Pick A Bagel,(212) 582-8333891 8th AveTheater District,894,$$,"$$Bagels, Cafes",3.5 star rating,891 8th Ave,Theater District,10036
+6. Bagel Market,(212) 681-6300425 Lexington AveMidtown East,4,,"Bagels, Salad, Sandwiches",5 star rating,425 Lexington Ave,Midtown East,10036
+7. Bagels & Schmear,(212) 725-7873116 E 28th StFlatiron,518,$,"$Bagels, Bakeries, Coffee & Tea",4 star rating,116 E 28th St,Flatiron,10036
+8. Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,$$,"$$Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West,10036
+9. Hudson Bagel,(212) 245-1200691 9th AveHell's Kitchen,60,$,$Bagels,3 star rating,691 9th Ave,Hell's Kitchen,10036
+10. The Jolly Goat Coffee Bar,(646) 509-8957515 W 47th StHell's Kitchen,351,$,"$Coffee & Tea, Cafes, Bagels",4.5 star rating,515 W 47th St,Hell's Kitchen,10036
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Candy Stores, Coffee & Tea",4.5 star rating,201 Bleecker St,Greenwich Village,10036
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10036
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Sandwiches, Coffee & Tea, Bagels",4.5 star rating,455 W 34th St,Chelsea,10036
+11. Skyline Gourmet Deli,(212) 459-2500700 10th AveHell's Kitchen,107,$,"$Delis, Coffee & Tea, Bagels",4 star rating,700 10th Ave,Hell's Kitchen,10036
+12. Bagels & More,365 W 34th StMidtown West,22,,Bagels,3.5 star rating,365 W 34th St,Midtown West,10036
+13. Finn’s Bagels,(212) 273-0700477 10th AveMidtown West,64,,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,477 10th Ave,Midtown West,10036
+14. NY Bagels & Cafe,(212) 725-3777587 1st AveMurray Hill,216,$,"$Bagels, Breakfast & Brunch, Sandwiches",4 star rating,587 1st Ave,Murray Hill,10036
+15. NINO’S COFFEE & GRILL,(929) 500-838944 St & 6 AveTheater District,12,,"Coffee & Tea, Breakfast & Brunch, Bagels",5 star rating,44 St & 6 Ave,Theater District,10036
+16. 57th Bagels And More,(929) 461-7802877 10th AveHell's Kitchen,8,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,877 10th Ave,Hell's Kitchen,10036
+17. NY Jumbo Bagels,(212) 355-61851070 2nd AveMidtown East,319,$,"$Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East,10036
+18. Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,$,"$Coffee & Tea, Bagels, Sandwiches",4.5 star rating,455 W 34th St,Chelsea,10036
+19. Zucker’s Bagels & Smoked Fish,(212) 661-1080370 Lexington AveMidtown East,512,$$,"$$Bagels, Breakfast & Brunch, Delis",3 star rating,370 Lexington Ave,Midtown East,10036
+20. Zuckers Bagels And Smoked Fish,(646) 638-1335242 8th AveChelsea,816,$,"$Bagels, Breakfast & Brunch, Delis",3.5 star rating,242 8th Ave,Chelsea,10036
+Ess-a-Bagel,(347) 589-8776108 W 32nd StMidtown West,143,,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,108 W 32nd St,Midtown West,10036
+Old Country Coffee,(646) 861-2171455 W 34th StChelsea,215,,"Sandwiches, Coffee & Tea, Bagels",4.5 star rating,455 W 34th St,Chelsea,10036
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10036
+21. Corvo Coffee,(917) 409-2479270 W 39th StMidtown West,50,$,"$Coffee & Tea, Bagels",4 star rating,270 W 39th St,Midtown West,10036
+22. Black Seed Bagels,(646) 915-15001188 BroadwayFlatiron,111,$$,"$$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,1188 Broadway,Flatiron,10036
+23. Black Seed Bagels,(646) 915-150075 9th AveMeatpacking District,12,,"Bagels, Sandwiches",3.5 star rating,75 9th Ave,Meatpacking District,10036
+24. Brooklyn National Deli,(646) 344-1654625 8th AveMidtown West,3,,"Delis, Breakfast & Brunch, Bagels",4.5 star rating,625 8th Ave,Midtown West,10036
+25. Black Seed Bagels,30 Rockefeller PlzMidtown West,27,,Bagels,2 star rating,30 Rockefeller Plz,Midtown West,10036
+26. Zucker’s Bagels & Smoked Fish,(212) 874-2800273 Columbus AveUpper West Side,282,$$,"$$Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side,10036
+27. Bagel Boss Murray Hill,(646) 368-1880544 3rd AveMurray Hill,148,$,"$Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,544 3rd Ave,Murray Hill,10036
+28. Chelsea Bagel Of Tudor City,(212) 368-7777800 2nd AveMidtown East,104,$,"$Bagels, Cafes",3.5 star rating,800 2nd Ave,Midtown East,10036
+29. Tal Bagels,(212) 753-9080979 1st AveMidtown East,249,$,"$Bagels, Salad, Breakfast & Brunch",3.5 star rating,979 1st Ave,Midtown East,10036
+30. Milk ‘N Honey NYC,(212) 764-440012 E 46th StMidtown East,109,$,"$Pizza, Bagels, Kosher",3 star rating,12 E 46th St,Midtown East,10036
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Candy Stores, Coffee & Tea",4.5 star rating,201 Bleecker St,Greenwich Village,10036
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Kosher, Bakeries",4 star rating,1100 Madison Ave,Upper East Side,10037
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10037
+1. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10037
+2. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10037
+3. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10037
+4. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10037
+5. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10037
+6. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10037
+7. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10037
+8. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10037
+9. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10037
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10037
+Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,,"Coffee & Tea, Cafes, Bagels",3.5 star rating,1641 York Ave,Yorkville,10037
+William Greenberg Desserts,(212) 861-13401100 Madison AveUpper East Side,254,,"Bakeries, Kosher",4 star rating,1100 Madison Ave,Upper East Side,10037
+The Evercake,(201) 898-5778Upper East Side,45,,Custom Cakes,4.5 star rating,,Upper East Side,10037
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10038
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Coffee & Tea, Candy Stores",4.5 star rating,201 Bleecker St,Greenwich Village,10038
+1. Russ & Daughters,(212) 475-4880179 E Houston StLower East Side,2269,$$,"$$Bagels, Smokehouse, Bakeries",4.5 star rating,179 E Houston St,Lower East Side,10038
+2. Leo’s Bagels,(212) 785-47003 Hanover SqFinancial District,895,$,"$Coffee & Tea, Bagels, Breakfast & Brunch",3.5 star rating,3 Hanover Sq,Financial District,10038
+3. Konditori,(646) 692-3229135 William StFinancial District,55,$,"$Coffee & Tea, Bakeries, Bagels",4 star rating,135 William St,Financial District,10038
+4. Zucker’s Bagels & Smoked Fish,(212) 608-5844146 Chambers StTriBeCa,670,$,"$Delis, Bagels, Breakfast & Brunch",3 star rating,146 Chambers St,TriBeCa,10038
+5. Kossar’s,(212) 473-4810367 Grand StLower East Side,536,$,"$Bakeries, Bagels, Coffee & Tea",3.5 star rating,367 Grand St,Lower East Side,10038
+6. Heaven’s Hot Bagel,(212) 420-7566283 E Houston StLower East Side,202,$,"$Bagels, Delis, Breakfast & Brunch",4 star rating,283 E Houston St,Lower East Side,10038
+7. Black Seed Bagels,(646) 915-1500170 Elizabeth StNolita,701,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,170 Elizabeth St,Nolita,10038
+8. Tribeca Bagels,(212) 226-8518374 Canal StTriBeCa,155,$,"$Delis, Bagels, Bakeries",3 star rating,374 Canal St,TriBeCa,10038
+9. La Bagel Delight at Dumbo,(718) 625-2235104 Front StDUMBO,148,$,"$Bagels, Fast Food, Delis",3.5 star rating,104 Front St,DUMBO,10038
+10. Baz Bagel and Restaurant,(212) 335-0609181 Grand StLittle Italy,398,$$,"$$Breakfast & Brunch, Bagels, Diners",3.5 star rating,181 Grand St,Little Italy,10038
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10038
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10038
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Coffee & Tea, Candy Stores",4.5 star rating,201 Bleecker St,Greenwich Village,10038
+11. Catherine Deli and Bagel,43 Catherine StTwo Bridges,2,,"Bagels, Delis, Sandwiches",4.5 star rating,43 Catherine St,Two Bridges,10038
+12. Montague Street Bagels,(718) 237-2512108 Montague StBrooklyn Heights,212,$,"$Bagels, Salad, Sandwiches",3 star rating,108 Montague St,Brooklyn Heights,10038
+13. Shelsky’s of Brooklyn Appetizing & Delicateseen,(718) 855-8817141 Court StCobble Hill,197,$$$,"$$$Seafood Markets, Bagels",4 star rating,141 Court St,Cobble Hill,10038
+14. Davidovich Bakery,(646) 918-676388 Essex StLower East Side,114,$,"$Bagels, Coffee & Tea, Bakeries",3.5 star rating,88 Essex St,Lower East Side,10038
+15. Andrew’s Classic BKLYN Bagels by Hard Times Sundaes,445 Albee Square WDowntown Brooklyn,12,,Bagels,3.5 star rating,445 Albee Square W,Downtown Brooklyn,10038
+16. Russ & Daughters Cafe,(212) 475-4881127 Orchard StLower East Side,1008,$$,"$$Bagels, Coffee & Tea, Delis",4 star rating,127 Orchard St,Lower East Side,10038
+17. Madison Bagel & Grill,(212) 608-46945 Madison StCivic Center,20,$$,"$$Breakfast & Brunch, Bagels",2.5 star rating,5 Madison St,Civic Center,10038
+18. Pio Bagel,(718) 237-2777136 Lawrence StDowntown Brooklyn,143,$,$Bagels,3.5 star rating,136 Lawrence St,Downtown Brooklyn,10038
+19. Thompson Finest Deli,(212) 343-233720 Thompson StSouth Village,53,$,"$Delis, Bagels, Sandwiches",4 star rating,20 Thompson St,South Village,10038
+20. La Bagel Delight at Court St,(718) 522-052090 Court StBrooklyn Heights,162,$,"$Bagels, Salad, Breakfast & Brunch",3.5 star rating,90 Court St,Brooklyn Heights,10038
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10038
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bagels, Bakeries",4 star rating,7 Carmine St,West Village,10038
+Porto Rico Importing Company,(212) 477-5421201 Bleecker StGreenwich Village,464,,"Candy Stores, Coffee & Tea",4.5 star rating,201 Bleecker St,Greenwich Village,10038
+21. Casella Bagel Coffee Shop,(718) 522-564166 Willoughby StDowntown Brooklyn,28,$,"$Coffee & Tea, Bagels, Cuban",3.5 star rating,66 Willoughby St,Downtown Brooklyn,10038
+22. Pick A Bagel,(212) 786-9200102 N End AveBattery Park,217,$$,$$Bagels,2.5 star rating,102 N End Ave,Battery Park,10038
+23. Spring Streets Finest Deli,(212) 343-2335322 Spring StSouth Village,19,$,"$Delis, Bagels, Burgers",4 star rating,322 Spring St,South Village,10038
+24. The Lazy Llama Coffee Bar,(646) 410-193872 E 1st StreetEast Village,96,$$,"$$Bakeries, Coffee & Tea, Bagels",4.5 star rating,72 E 1st Street,East Village,10038
+25. Atlantic Bagels Cafe,(718) 254-9000200 Clinton StBrooklyn Heights,104,$,"$Breakfast & Brunch, Bagels, Cafes",3 star rating,200 Clinton St,Brooklyn Heights,10038
+26. Optimum Gourmet Deli,(212) 477-4400243 Broome StLower East Side,35,$,"$Delis, Bagels, Sandwiches",4.5 star rating,243 Broome St,Lower East Side,10038
+27. Champs Gourmet Deli,(212) 363-400030 Broad StFinancial District,49,$,"$Delis, Bagels, Sandwiches",3.5 star rating,30 Broad St,Financial District,10038
+28. The Great American Bagel Bakery,(646) 596-7105Located in Fulton CenterFinancial District,25,,"Bagels, Coffee & Tea, Breakfast & Brunch",1.5 star rating,,Financial District,10038
+29. Davidovich Bakery,(646) 559-505879 Clinton StLower East Side,,,"Bakeries, Bagels, Caterers",,79 Clinton St,Lower East Side,10038
+30. Olive’s,(212) 858-0111225 Liberty StBattery Park,74,$$,"$$Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,225 Liberty St,Battery Park,10038
+Oslo Coffee Roasters,(718) 782-0332236 W 10th StWest Village,29,,Coffee Roasteries,4.5 star rating,236 W 10th St,West Village,10038
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10039
+Bagels on the Square,(212) 691-30417 Carmine StWest Village,447,,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village,10039
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10039
+2. Absolute Bagels,(212) 932-20522788 BroadwayManhattan Valley,1428,$,"$Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley,10039
+3. BO’s Bagels,(917) 902-8345235 W 116th StHarlem,345,$,$Bagels,4.5 star rating,235 W 116th St,Harlem,10039
+4. The Chipped Cup,(212) 368-88813610 BroadwayHarlem,381,$$,"$$Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem,10039
+5. Inwood Bagels,(212) 569-7770628 W 207th StInwood,95,$,$Bagels,3.5 star rating,628 W 207th St,Inwood,10039
+6. Broadway Bagel,(212) 662-02312658 BroadwayManhattan Valley,194,$,"$Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley,10039
+7. Bergen Boulevard Bagels,(201) 944-9003438 Bergen Blvd,106,$,$Bagels,4 star rating,438 Bergen Blvd,,10039
+8. Mott Haven Bagel & Barista Cafe,(718) 292-0600221 E 138th StMott Haven,20,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven,10039
+9. Dichter Pharmacy & Soda Shoppe,(212) 569-12304953 BroadwayInwood,46,$,"$Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood,10039
+10. Brekkie Bagels,1528 Amsterdam AveHarlem,,,Bagels,,1528 Amsterdam Ave,Harlem,10039
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10039
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10039
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10039
+11. Lemoine Hot Bagels Deli,(201) 585-19882455 Lemoine Ave,30,$,$Bagels,3.5 star rating,2455 Lemoine Ave,,10039
+12. Bagels & More,(201) 886-11121040 River Rd,34,$,$Bagels,3.5 star rating,1040 River Rd,,10039
+13. Bagel Tree,(646) 559-8912245 E 124th StEast Harlem,40,$,"$Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem,10039
+14. Zaro’s Family Bakery,1825 Park AvenueEast Harlem,8,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem,10039
+15. Three Star Bagels,(201) 224-3745270 Columbia Ave,55,$$,"$$Bagels, Delis",3 star rating,270 Columbia Ave,,10039
+16. Wu & Nussbaum,(212) 222-00402897 BroadwayMorningside Heights,48,$$,"$$Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights,10039
+17. Mrs. Bagelsworth,(201) 224-35501209 Anderson Ave,28,$,"$Cuban, Delis, Bagels",4 star rating,1209 Anderson Ave,,10039
+18. El Barrista Cafe,(718) 413-01912154 Third AveEast Harlem,18,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem,10039
+19. Palisade Bagel,(201) 363-88991611 Palisade Ave,68,$,"$Bagels, Wraps, Sandwiches",3 star rating,1611 Palisade Ave,,10039
+20. Binghamton Bagel & Deli,(201) 947-00032151 Lemoine Ave,91,$,"$Bagels, Delis, Sandwiches",3 star rating,2151 Lemoine Ave,,10039
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Sandwiches, Pizza, Coffee & Tea",3.5 star rating,3594 Broadway,Harlem,10039
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10039
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10039
+21. Carreon’s Deli and Bakery,(917) 924-12334975 BroadwayInwood,14,$,"$Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood,10039
+22. Mr Bagelsworth,(201) 945-0122725 River Rd,133,$,"$Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,,10039
+23. Just Bagels,(718) 328-9700527 Casanova StHunts Point,5,,Bagels,3.5 star rating,527 Casanova St,Hunts Point,10039
+24. Double Dutch Espresso,(646) 429-88342194 Frederick Douglass BlvdHarlem,226,$$,"$$Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem,10039
+25. Yum-Yum,(201) 840-9998677 Anderson Ave,29,$,"$Ice Cream & Frozen Yogurt, Bagels",3.5 star rating,677 Anderson Ave,,10039
+26. El Chevere Bakery,(212) 289-56562002 Third AveEast Harlem,16,$,"$Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem,10039
+27. Perista Cafe,(646) 490-5111158 Dyckman StWashington Heights,7,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights,10039
+28. Simon’s Deli & Bagels,(718) 562-33542479 Arthur AveBelmont,32,$,"$Delis, Sandwiches, Bagels",3 star rating,2479 Arthur Ave,Belmont,10039
+29. Ginbos Hamburger House,(347) 963-4644118 E 170th StConcourse,23,$,"$Burgers, Sandwiches, Bagels",3 star rating,118 E 170th St,Concourse,10039
+30. Bagel Buddies,(201) 886-97921365 Inwood Ter,,,Bagels,,1365 Inwood Ter,,10039
+Jumbo Pizza Coffee Shop,(212) 491-29903594 BroadwayHarlem,82,,"Coffee & Tea, Sandwiches, Pizza",3.5 star rating,3594 Broadway,Harlem,10039
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10040
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10040
+1. Mike’s Bagels,(212) 928-23004003 BroadwayWashington Heights,205,$,$Bagels,4 star rating,4003 Broadway,Washington Heights,10040
+2. Inwood Bagels,(212) 569-7770628 W 207th StInwood,95,$,$Bagels,3.5 star rating,628 W 207th St,Inwood,10040
+3. Dichter Pharmacy & Soda Shoppe,(212) 569-12304953 BroadwayInwood,46,$,"$Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood,10040
+4. Carreon’s Deli and Bakery,(917) 924-12334975 BroadwayInwood,14,$,"$Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood,10040
+5. Perista Cafe,(646) 490-5111158 Dyckman StWashington Heights,7,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights,10040
+6. Park Terrace Deli,(212) 569-5990510 W 218th StInwood,79,$,"$Delis, Bagels",3.5 star rating,510 W 218th St,Inwood,10040
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10040
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10040
+My Juice Box,(347) 595-0936209 Dyckman StInwood,,,Juice Bars & Smoothies,,209 Dyckman St,Inwood,10040
+Panacea Bread Home Bakery,(929) 330-88962174 Amsterdam AveWashington Heights,,,Bakeries,,2174 Amsterdam Ave,Washington Heights,10040
+Toast & Roast Bagels and Coffee,(929) 460-03083207 BroadwayAstoria,85,,"Sandwiches, Bagels, Coffee & Tea",4 star rating,3207 Broadway,Astoria,10044
+Möge Tee,(518) 418-013742-32 Crescent StLong Island City,106,,"Coffee & Tea, Bubble Tea",4 star rating,42-32 Crescent St,Long Island City,10044
+1. Bagelworks,(212) 744-64441229 1st AveUpper East Side,407,$,$Bagels,4 star rating,1229 1st Ave,Upper East Side,10044
+2. H&H Bagels,(212) 734-74411551 2nd AveUpper East Side,826,$,"$Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side,10044
+3. Brooklyn Bagel & Coffee Company,(718) 204-014135-05 BroadwayAstoria,710,$,"$Bagels, Coffee & Tea",4.5 star rating,35-05 Broadway,Astoria,10044
+4. Ess-a-Bagel,(347) 343-5728831 3rd AveMidtown East,3669,$,"$Bakeries, Bagels, Delis",4 star rating,831 3rd Ave,Midtown East,10044
+5. We Bagel,(718) 255-199247-11 11th StHunters Point,48,,"Coffee & Tea, Bagels, Juice Bars & Smoothies",4 star rating,47-11 11th St,Hunters Point,10044
+6. The Bagel Shop,(212) 860-80601659 3rd AveYorkville,137,$$,$$Bagels,4 star rating,1659 3rd Ave,Yorkville,10044
+7. LIC Bagel & Deli,(718) 707-333341-04 27th StLong Island City,33,,"Delis, Bagels",4 star rating,41-04 27th St,Long Island City,10044
+8. Best Bagel & Coffee,(212) 564-4409225 W 35th StMidtown West,3360,$,"$Bagels, Coffee & Tea, Breakfast & Brunch",4.5 star rating,225 W 35th St,Midtown West,10044
+9. Bagels & Co.,(212) 717-05051428 York AveUpper East Side,48,$,"$Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side,10044
+10. New York City Bagel & Coffee House,(718) 777-03242910 BroadwayAstoria,44,$,"$Sandwiches, Coffee & Tea, Bagels",3.5 star rating,2910 Broadway,Astoria,10044
+Mad Cafe,(347) 956-201943-10 Queens BlvdSunnyside,25,,"Cafes, Coffee & Tea",4.5 star rating,43-10 Queens Blvd,Sunnyside,10044
+Toast & Roast Bagels and Coffee,(929) 460-03083207 BroadwayAstoria,85,,"Bagels, Sandwiches, Coffee & Tea",4 star rating,3207 Broadway,Astoria,10044
+Mad Cafe,(347) 956-201943-10 Queens BlvdSunnyside,25,,"Cafes, Coffee & Tea",4.5 star rating,43-10 Queens Blvd,Sunnyside,10044
+11. Oh! Hot Bagels,(347) 504-222739-44 21st StLong Island City,11,$,"$Bagels, Breakfast & Brunch, Coffee & Tea",3.5 star rating,39-44 21st St,Long Island City,10044
+12. Toast & Roast Bagels and Coffee,(929) 460-03083207 BroadwayAstoria,85,$,"$Bagels, Coffee & Tea, Sandwiches",4 star rating,3207 Broadway,Astoria,10044
+13. New York City Bagel Coffee House,(718) 728-950029-08 23rd AveAstoria,373,$$,$$Bagels,4 star rating,29-08 23rd Ave,Astoria,10044
+14. New York City Bagel & Coffee House,(718) 728-951140-05 BroadwayAstoria,250,$$,"$$Bagels, Coffee & Tea",4 star rating,40-05 Broadway,Astoria,10044
+15. NY Jumbo Bagels,(212) 355-61851070 2nd AveMidtown East,319,$,"$Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East,10044
+16. Brooklyn Bagel & Coffee Company,(718) 777-112136-14 30th AveAstoria,473,$,"$Coffee & Tea, Bagels",4 star rating,36-14 30th Ave,Astoria,10044
+17. Pick-A-Bagel,(212) 717-46681475 2nd AveUpper East Side,251,$,"$Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,1475 2nd Ave,Upper East Side,10044
+18. Bagel Bob’s on York,(212) 535-38381641 York AveYorkville,256,$,"$Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville,10044
+19. Eastside Bagel & Appetizing,(212) 794-16551496 1st AveUpper East Side,89,$,$Bagels,2.5 star rating,1496 1st Ave,Upper East Side,10044
+20. Tal Bagels,(212) 427-6811333 E 86th StYorkville,398,$,"$Bagels, Delis",3 star rating,333 E 86th St,Yorkville,10044
+Möge Tee,(518) 418-013742-32 Crescent StLong Island City,106,,"Bubble Tea, Coffee & Tea",4 star rating,42-32 Crescent St,Long Island City,10044
+Toast & Roast Bagels and Coffee,(929) 460-03083207 BroadwayAstoria,85,,"Bagels, Coffee & Tea, Sandwiches",4 star rating,3207 Broadway,Astoria,10044
+The Food Emporium,(929) 242-977482-35 153rd AveLindenwood,20,,"Grocery, Delis, Bakeries",3.5 star rating,82-35 153rd Ave,Lindenwood,10044
+21. Brooklyn Bagel & Coffee Company,(212) 924-2824286 8th AveChelsea,1470,$,"$Bagels, Breakfast & Brunch, Cafes",4 star rating,286 8th Ave,Chelsea,10044
+22. Astoria Bagel Shop & Deli,(718) 728-51692812 Ditmars BlvdAstoria,155,$,"$Delis, Bagels, Breakfast & Brunch",4 star rating,2812 Ditmars Blvd,Astoria,10044
+23. Sable’s Smoked Fish,(212) 249-61771330 3rd AveUpper East Side,250,$$,"$$Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side,10044
+24. Pick A Bagel,(212) 517-65901101 Lexington AveUpper East Side,282,$,"$Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side,10044
+25. Tal Bagels,(212) 753-9080979 1st AveMidtown East,249,$,"$Bagels, Salad, Breakfast & Brunch",3.5 star rating,979 1st Ave,Midtown East,10044
+26. Tal Bagels,(212) 717-20801228 Lexington AveUpper East Side,236,$$,"$$Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side,10044
+27. New York City Bagel & Coffee House,(718) 728-951233-10 30th AveAstoria,89,$$,"$$Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,33-10 30th Ave,Astoria,10044
+28. Yorkville Bagel & Cafe,(212) 996-65441821 2nd AveYorkville,98,$,"$Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville,10044
+29. Tompkins Square Bagels - Avenue A,(646) 351-6520165 Avenue AEast Village,1141,$,$Bagels,4 star rating,165 Avenue A,East Village,10044
+30. Bagels & Brew,(718) 545-444043-05 BroadwayAstoria,213,$,"$Bagels, Breakfast & Brunch, Cafes",4 star rating,43-05 Broadway,Astoria,10044
+Howard Beach Bagel Cafe,(718) 843-5700162-54 Crossbay BlvdHoward Beach,91,,Bagels,3.5 star rating,162-54 Crossbay Blvd,Howard Beach,10044

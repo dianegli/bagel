@@ -1,0 +1,667 @@
+name,phone,review_count,price,food_type,rating,address,town
+Atlantic Bagel Company,7189345800,1.0,,Bagels,3 star rating,2 Neptune Ave,Brighton Beach
+My Brothers Deli & Bagels,7186053100,1.0,,"Food Delivery Services, Bagels, Delis",3 star rating,960 Bloomingdale Rd,
+Avenue P Appetizers,7183397202,1.0,,"Breakfast & Brunch, Bagels, Sandwiches",3 star rating,466 Avenue P,Midwood
+Sabianza Deli & Bagels Inc,5168250655,1.0,,Bagels,5 star rating,1627 Dutch Broadway,
+Three Guys Bagel,5165487738,1.0,,"Breakfast & Brunch, Bagels, Delis",5 star rating,986 Merrick Rd,
+Bklyn Bagel,7183178100,1.0,$$,Bagels,4 star rating,86 Page Ave,
+Cando,5166160202,1.0,$$,Bagels,1 star rating,1511 Jericho Tpke,
+Krakowskie Precle,,1.0,,Bagels,3 star rating,Ul. Złota 59,Centrum
+Afp Bagels,,1.0,,Bagels,5 star rating,566 Lorimer St,Williamsburg - North Side
+Ben Bagel,,1.0,,Bagels,4 star rating,ul. Mokotowska 8,Śródmieście
+Pizza Express,7182532600,1.0,,"Pizza, Bagels, Wraps",5 star rating,3005 Ave K,Midwood
+33 Gourmet Deli,,1.0,,"Delis, Breakfast & Brunch, Bagels",5 star rating,552 8th Ave,Midtown West
+Hot Bagels,7184596265,1.0,,Bagels,4 star rating,9508 63rd Dr,Rego Park
+Fly-By Bagels - TWA Hotel,2127903625,1.0,,"Bagels, Breakfast & Brunch",5 star rating,1 Idlewild Dr,JFK Airport
+Bagel King,7182635858,1.0,$,Bagels,3 star rating,11210 Queens Blvd,Forest Hills
+OoohSoGood Comfort Food,9143633722,1.0,,"Delis, Comfort Food, Bagels",1 star rating,35 N MacQuesten Pkwy,
+Oakwood Bagels,7186683646,1.0,,Bagels,5 star rating,101 Guyon Ave,Oakwood
+Coffee Cart,,1.0,$,"Street Vendors, Coffee & Tea, Bagels",4 star rating,Park Pl & Broadway,Financial District
+Daves deli bagel organic,,1.0,,"Delis, Bagels",5 star rating,248 Kingston Ave,Crown Heights
+Pick A Bagel Main Office,2123624165,1.0,,Bagels,1 star rating,1991 Broadway,Upper West Side
+Coffee Place,,1.0,,"Coffee & Tea, Bakeries, Bagels",2 star rating,591 W 58th St,Hell's Kitchen
+Mr. Bagels Cafe,7188363000,1.0,,"Bagels, Delis",5 star rating,9417 3rd Ave,Fort Hamilton
+Bagel Nest,7188727545,1.0,,Bagels,4 star rating,1237 Fulton St,Bedford Stuyvesant
+Sam Bajgle,,2.0,$$,Bagels,4.5 star rating,ul. Emilii Plater 8,Śródmieście
+Chock Full Onuts,,2.0,,Bagels,1 star rating,Jersey Gardens Blvd,
+Mannys Gourmet,2127916969,2.0,$,"Bagels, Coffee & Tea",3 star rating,27 Saint James Pl,Civic Center
+Dunkin Donuts/Baskin Robbins,,2.0,$$,"Donuts, Coffee & Tea, Bagels",2.5 star rating,Central Terminal Dr,LaGuardia Airport
+Plaza 4A Cafe,2014333300,2.0,$,"Coffee & Tea, Bagels",5 star rating,135 Greene St,
+Fulton Bagel House,3473782853,2.0,,Bagels,3 star rating,1128 Fulton St,Clinton Hill
+The Winners Circle Deli,,2.0,,"Breakfast & Brunch, Bagels, Delis",4 star rating,847 Bronx River Rd,
+Forest Hill Deli Bagel,7182635858,2.0,,"Bagels, Delis, Sandwiches",1 star rating,112-10 Queens Blvd,Forest Hills
+Catherine Deli and Bagel,,2.0,,"Bagels, Delis, Sandwiches",4.5 star rating,43 Catherine St,Two Bridges
+Hot Bagels & Cafe,7183596027,2.0,$,"Coffee & Tea, Bagels",3 star rating,3536 Farrington St,Downtown Flushing
+Not Just Bagel And Cheese,7189988778,3.0,$,"Coffee & Tea, Bagels, Kosher",3.5 star rating,1304 Avenue M,Midwood
+SHM Bagel Coffee Shop,9293376299,3.0,,"Coffee & Tea, Bagels, Burgers",3.5 star rating,895 Grand St,East Williamsburg
+Bagels 4 You,7189483354,3.0,,Bagels,2.5 star rating,289 Page Ave,
+Forest superette and bagels,7182736928,3.0,$,Bagels,2.5 star rating,350 Forest Ave,West Brighton
+Village Green Bagel,7183178048,3.0,,Bagels,1.5 star rating,262 Arden Ave,Arden Heights
+Big Boy 2 Deli,7184838079,3.0,$$$,"Convenience Stores, Bagels",2.5 star rating,1452 Nostrand Ave,Flatbush
+Village Bagels,7183399555,3.0,,Bagels,5 star rating,257 Ave X,Gravesend
+The Bagels,5164852082,3.0,,"Sandwiches, Bagels, Coffee & Tea",4.5 star rating,17 Nassau Blvd,
+Brooklyn National Deli,6463441654,3.0,,"Delis, Breakfast & Brunch, Bagels",4.5 star rating,625 8th Ave,Midtown West
+Bagels By Sofia,,3.0,,Bagels,3.5 star rating,145 Chatsworth Ave,
+Bagels on the Run,9147403302,3.0,,"Desserts, Bagels, Sandwiches",4.5 star rating,426 Pelham Rd,
+M&O Bagels,7183232900,3.0,,Bagels,2.5 star rating,132-10 Cross Bay Blvd,Ozone Park
+Lehman College Harmony Caf,,3.0,$$$,"Bagels, Coffee & Tea",4.5 star rating,250 W Bedford Park Blvd,
+"Stronis Pizza, Wings, and Things",3479189737,3.0,,"Bagels, Pizza",2.5 star rating,283 E 170th St,Concourse
+Diluvios Cafe,,4.0,,"American (Traditional), Coffee & Tea, Bagels",2.5 star rating,,Sunnyside
+Lil Jays,,4.0,,"Souvenir Shops, Bagels, Cafes",4 star rating,591 W 58th St,Hell's Kitchen
+M&O Bagels,6463949811,4.0,,Bagels,3 star rating,9219 101st Ave,Ozone Park
+731 Bagel,7185763522,4.0,,"Sandwiches, Breakfast & Brunch, Bagels",4 star rating,731 4th Ave,South Slope
+Bagel Talk,5163584123,4.0,$$,Bagels,2 star rating,1413 Hempstead Tpke,
+Bagel Market,2126816300,4.0,,"Bagels, Salad, Sandwiches",5 star rating,425 Lexington Ave,Midtown East
+Bagel Buster,7189673354,4.0,,"Delis, Bagels, Grocery",4.5 star rating,700 Arthur Kill Rd,Great Kills
+Kings Bagel,7182525200,5.0,,Bagels,2.5 star rating,4113 Avenue U,Marine Park
+Cafe Lafayette,2124062595,5.0,$$,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,80 Lafayette Ave,Chinatown
+City Bagels,7189679300,5.0,$,Bagels,3 star rating,6372 Amboy Rd,Princes Bay
+Bagels Bagels Bagels,5164854421,5.0,$,Bagels,3 star rating,706 Dogwood Ave,
+Kafeneo,6464803399,5.0,$,"Coffee & Tea, Bagels",3.5 star rating,80 Maiden Ln,Financial District
+Bagel Delight - Kosher Bagels,5163747644,5.0,$$$,"Bagels, Juice Bars & Smoothies",2 star rating,598 Central Ave,
+Jeva Cafe,9292345428,5.0,,"Coffee & Tea, Bagels",4 star rating,513 Wilson Ave,Bushwick
+Bagel & Bagel,,5.0,$$,Bagels,4 star rating,1627 Dutch Broadway,
+The Bagelnaitor,3477991343,5.0,,"Bagels, Food Delivery Services",5 star rating,749 Flushing Ave,South Williamsburg
+Metro Bagels Company,7184498906,5.0,,Bagels,5 star rating,286 Avenue U,Gravesend
+32nd Brooklyn Bagel & Cafe,7182788691,5.0,,Bagels,1.5 star rating,2508 31st St,Astoria
+Just Bagels,7183289700,5.0,,Bagels,3.5 star rating,527 Casanova St,Hunts Point
+Sweetwater Coffee,5759352060,6.0,$$$,"Coffee & Tea, Bagels",4.5 star rating,417 Schepps Blvd,
+S & T Bagels & Deli,7189812100,6.0,,"Bagels, Delis",3.5 star rating,463 Forest Ave,West Brighton
+Diesel Bagel & Deli,7185544710,6.0,$$,Bagels,2 star rating,878 Annadale Rd,Annadale
+Avraham Bakery,7189691074,6.0,$,"Bakeries, Cupcakes, Bagels",3.5 star rating,73-15 Main St,Kew Gardens Hills
+WD Bagels & Bagels,5164399477,6.0,$,"Coffee & Tea, Bakeries, Bagels",4 star rating,1627 Dutch Broadway,
+McLean Deli,9146134101,6.0,$$,"Juice Bars & Smoothies, Sandwiches, Bagels",4.5 star rating,155 Mclean Ave,
+Grand Mars Bagel & Deli,7186516600,6.0,,"Grocery, Bagels, Delis",3.5 star rating,6962 Grand Ave,Maspeth
+JW Real Polish Delicatessen,7185596686,6.0,,"Delis, Polish, Bagels",5 star rating,321 Church Ave,Kensington
+Kosher Bagels Avenue M,7183365139,7.0,$$,Bagels,3 star rating,1712 Ave M,Midwood
+Chock Full O Nuts,,7.0,$$,"Coffee & Tea, Bagels, Donuts",1.5 star rating,Jersey Gardens Blvd,
+Bagel and Bagel,2019415626,7.0,$,"Bagels, Sandwiches",3.5 star rating,775 Edgewater Ave,
+B & M Hot Bagels,7189668445,7.0,$,Bagels,2 star rating,203 Giffords Ln,Great Kills
+Rag Time Newstand,7188436958,7.0,,"Coffee & Tea, Newspapers & Magazines, Bagels",4 star rating,15752 Crossbay Blvd,Lindenwood
+Perista Cafe,6464905111,7.0,,"Breakfast & Brunch, Coffee & Tea, Bagels",3 star rating,158 Dyckman St,Washington Heights
+Bagels Convenience Store,,7.0,$,Bagels,2.5 star rating,4113 Ave U,Marine Park
+AR Hot Bagels,7184039342,7.0,$,Bagels,3.5 star rating,350 Van Brunt St,Red Hook
+Richmond Bagels & Deli,7184943354,7.0,,"Delis, Bagels",2.5 star rating,53 Richmond Hill Rd,Heartland Village
+Victory Bagel Time,7189837345,7.0,$$,Bagels,1.5 star rating,3573 Victory Blvd,New Springville
+Hot Bagels,7182574765,7.0,$,"Bagels, Breakfast & Brunch",4 star rating,11124 Flatlands Ave,Canarsie
+57th Bagels And More,9294617802,8.0,,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,877 10th Ave,Hell's Kitchen
+More Than A Bagel,5165699350,8.0,$$,"Delis, Bagels",4 star rating,1303 Broadway,
+D & V Bagels,5168838080,8.0,$$,Bagels,2.5 star rating,126 Shore Rd,
+Holy Bagel,7186765333,8.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4.5 star rating,2388 Nostrand Ave,Midwood
+Avenue U Bagels,3475876800,8.0,,"Bagels, Breakfast & Brunch",4 star rating,284 Avenue U,Gravesend
+Hillside Hot Bagels,7184652500,8.0,$$,"Bagels, Breakfast & Brunch",4 star rating,204-15 Hillside Ave,Hollis
+Hot Bagel and Deli,7187482660,8.0,$,"Delis, Bagels",4.5 star rating,7017 3rd Ave,Bay Ridge
+American New York Bagel,7185050505,8.0,,"Bagels, Coffee & Tea, Breakfast & Brunch",3.5 star rating,86-19 Northern Blvd,Jackson Heights
+Whats A Bagel,7182574765,8.0,$$,"Bagels, Breakfast & Brunch",3.5 star rating,11112 Flatlands Ave,Canarsie
+Black Seed Bagels,6469151500,8.0,,"Bagels, Sandwiches",3.5 star rating,379 Suydam St,Bushwick
+Avenue X Bagels,3475876820,8.0,,Bagels,5 star rating,2650C Coney Island Ave,Gravesend
+Zaros Family Bakery,,8.0,,"Coffee & Tea, Bakeries, Bagels",4 star rating,1825 Park Avenue,East Harlem
+Lucky 7 Gourmet Deli,,9.0,$$$,Bagels,3.5 star rating,400 Bedford Ave,Williamsburg - South Side
+Cafe Bagelo,5162958587,9.0,$$,Bagels,2.5 star rating,26 Franklin Ave,
+Bagel Land,9149690839,9.0,$,Bagels,4.5 star rating,122 Lake Ave,
+Great Neck Station Bagel and Deli,5164667070,9.0,$$,"Coffee & Tea, Bagels",2 star rating,33 N Station Plz,
+Milk N-Things,7188157884,9.0,,"Delis, Sandwiches, Bagels",3 star rating,843 Forest Ave,West Brighton
+Chilpancingo Restaurant,7189441440,9.0,$,"Coffee & Tea, Mexican, Bagels",2.5 star rating,366 E 204th St,
+Sunrise Bagel,7187271397,9.0,$,Bagels,4 star rating,900 Hylan Blvd,Arrochar
+Bagels R Bakin,3474047122,9.0,$,"Sandwiches, Bagels",2 star rating,410 Church Ave,Kensington
+NY Bagel Cafe & Deli,7183392338,9.0,,"Coffee & Tea, Bagels, Delis",2.5 star rating,501 Kings Hwy,Gravesend
+Bakers Dozen Bagels,7183663330,9.0,,"Bagels, Delis, Sandwiches",4 star rating,6608 Fresh Pond Rd,Ridgewood
+AFC Deli and Fried Chicken,7189537980,10.0,$,"Donuts, Delis, Bagels",4 star rating,282 Broadway,Williamsburg - South Side
+Blvd Juice & Grill,2019414100,10.0,,"Sandwiches, Bagels, Wraps",4.5 star rating,684 Bergen Blvd,
+Holesome Bagels,3479555300,10.0,$,"Bagels, Pizza",2.5 star rating,333 Kingston Ave,Crown Heights
+Bagel Plus,7187464343,10.0,$,"Bagels, Bakeries",4 star rating,2022 Francis Lewis Blvd,Whitestone
+South Shore Hot Bagels,7182278600,10.0,$,Bagels,3.5 star rating,4882 Arthur Kill Rd,
+Jonas Bagels And Sams Pastries,7188944319,10.0,,"Bakeries, Bagels, Breakfast & Brunch",4.5 star rating,7409 Metropolitan Ave,Middle Village
+Village Bagels,7183573577,10.0,$,"Bagels, Bakeries",4.5 star rating,14-37 150th St,
+M & M Deli & Bagels,7189666826,11.0,$,"Bagels, Delis, Sandwiches",2.5 star rating,849 Annadale Rd,Annadale
+The Village Vibe Cafe,9147381367,11.0,$,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,3 Fifth Ave,
+Oh! Hot Bagels,3475042227,11.0,$,"Bagels, Breakfast & Brunch, Coffee & Tea",3.5 star rating,39-44 21st St,Long Island City
+Broadway Deli & Grill,3472422996,11.0,,"American (Traditional), Delis, Bagels",2.5 star rating,3192 21st St,Astoria
+Oh! Bagels and Cafe,7185395329,11.0,$,"Coffee & Tea, Bagels",4 star rating,3430 Union St,Downtown Flushing
+Belmont Deli & Grill,5162806775,11.0,$,"Bagels, Sandwiches, Breakfast & Brunch",4.5 star rating,139 Hempstead Turnpike,
+Hot Bagels,7182529440,11.0,$,Bagels,2.5 star rating,4706 Ave N,Mill Basin
+Black Seed Bagels,6469151500,12.0,,"Bagels, Sandwiches",3.5 star rating,75 9th Ave,Meatpacking District
+Einstein Bros Bagels,5167923957,12.0,$,"Coffee & Tea, Bagels, Sandwiches",3 star rating,,LaGuardia Airport
+Hot Bagels,7183398138,12.0,$,Bagels,3.5 star rating,1506 Ave M,Midwood
+Andrews Classic BKLYN Bagels by Hard Times Sundaes,,12.0,,Bagels,3.5 star rating,445 Albee Square W,Downtown Brooklyn
+Beans and Bagels,7187132245,12.0,,"Bagels, Breakfast & Brunch",3 star rating,1683 E 16th St,Midwood
+Crown Bagel & Deli,7183982625,12.0,$$,"Bagels, Delis",5 star rating,719 Washington Ave,Prospect Heights
+NINOS COFFEE & GRILL,9295008389,12.0,,"Coffee & Tea, Breakfast & Brunch, Bagels",5 star rating,44 St & 6 Ave,Theater District
+Horizon Bakery,8665083558,13.0,$,"Coffee & Tea, Bagels",2 star rating,John F Kennedy International Airport Queens,JFK Airport
+My Favorite Bagel,7189985933,13.0,$,"Bagels, Coffee & Tea, Pizza",4 star rating,3053 Nostrand Ave,Marine Park
+Gourmet Market and Bagel,7185491039,13.0,$,"Delis, Bagels, Grocery",3.5 star rating,5993 Broadway,Fieldston
+Jerusalem Fresh Bagels,7184339341,13.0,,"Bagels, Breakfast & Brunch, Kosher",4 star rating,64-48 108th St,Forest Hills
+Hot Bagels and Bialys,7189750709,13.0,,"Bagels, Delis, Sandwiches",4 star rating,1909 Ave U,Sheepshead Bay
+Food U Desire,7189651249,13.0,$$,"Sandwiches, Bagels, Burgers",3.5 star rating,423 7th Ave,South Slope
+179th Street Deli,7185263371,13.0,$,"Breakfast & Brunch, Bagels",4 star rating,179TH St,Jamaica
+Eddies Bagels & Coffee,9177450105,13.0,,"Coffee & Tea, Bagels",4.5 star rating,44-02 31st Ave,Astoria
+H&H Bagel,,13.0,,"Sandwiches, Bagels",1.5 star rating,,JFK Airport
+Hillside Bagels & Deli,9083520596,14.0,,"Delis, Bagels, Fast Food",4 star rating,1147 Liberty Ave,
+Bagel Time,5167673822,14.0,$,Bagels,3 star rating,93 Manorhaven Blvd,
+Tenafly Hot Bagels,2015672935,14.0,$$,Bagels,4.5 star rating,35 Washington Ave,
+Carreons Deli and Bakery,9179241233,14.0,$,"Bakeries, Bagels, Delis",3 star rating,4975 Broadway,Inwood
+Pizza Plus,2129341800,14.0,$,"Pizza, Coffee & Tea, Bagels",2 star rating,4 South St,
+Bagel Station,5164415051,14.0,$,"Bagels, Salad, Sandwiches",3.5 star rating,6A Bond St,
+Friends Coffee Shop,7182616317,14.0,$,"Sandwiches, Coffee & Tea, Bagels",3.5 star rating,11817 Queens Blvd,Forest Hills
+Bagelry,5162951222,14.0,$,Bagels,3.5 star rating,507 Central Ave,
+Piazza Breakfast,,15.0,$$,"Breakfast & Brunch, Bagels, Sandwiches",1.5 star rating,,JFK Airport
+Convenient Food Mart,7184487730,15.0,$,"Grocery, Bagels, Delis",3.5 star rating,255 Hylan Blvd,Shore Acres
+Marks Off Madison,6468388300,15.0,,"Breakfast & Brunch, Bagels, Italian",4.5 star rating,41 Madison Ave,Flatiron
+Family Bagels,5163584015,15.0,$,Bagels,4 star rating,308 Jericho Tpke,
+Metro Bagel & Cafe,7185670666,16.0,$,"Bagels, Breakfast & Brunch, Cafes",3.5 star rating,5811 4th Ave,Sunset Park
+El Chevere Bakery,2122895656,16.0,$,"Coffee & Tea, Bakeries, Bagels",4.5 star rating,2002 Third Ave,East Harlem
+M & O Bagels,7184412156,17.0,$,"Bagels, Bakeries",3 star rating,101-09 Jamaica Ave,Richmond Hill
+Oh! Bagel Cafe,7187872100,17.0,$$,"Kosher, Bagels, Pizza",3.5 star rating,1755 Coney Island Ave,Midwood
+Bagels on the blvd,7186677800,17.0,,"Bagels, Sandwiches, Coffee & Tea",3 star rating,1728 Hylan Blvd,Dongan Hills
+Ediths,,17.0,,"Bakeries, Bagels",4 star rating,60 Greenpoint Ave,Greenpoint
+Greenbergs Bagels,3478600455,17.0,,Bagels,3.5 star rating,103 N 3rd St,Williamsburg - North Side
+The Local MRKT,3476204872,17.0,,"Burgers, Bagels, Sandwiches",5 star rating,66-75 Selfridge St,Forest Hills
+Hot Bagels & More,7189671144,17.0,$,Bagels,3 star rating,758 Arthur Kill Rd,Great Kills
+Woodside Deli & Bagel,7183010693,17.0,$,"Bagels, Delis",3.5 star rating,54-12 31st Ave,
+Manhattan Bagel - Sayreville,7325250696,18.0,$$,Bagels,2 star rating,881 Main St,
+iBagel Cafe,5167474040,18.0,$$,Bagels,3.5 star rating,180 I U Willets Rd,
+Bagel Bob,7182524800,18.0,$$,Bagels,2 star rating,2114 Flatbush Ave,Marine Park
+Broad Nosh Bagels,,18.0,,Bagels,4.5 star rating,2350 Broadway,Upper West Side
+El Barrista Cafe,7184130191,18.0,,"Breakfast & Brunch, Bagels, Coffee & Tea",4 star rating,2154 Third Ave,East Harlem
+Bagel Zone,9145764900,19.0,$,Bagels,3 star rating,243 Main St,
+Hot Bagels,7182573068,19.0,$,Bagels,3.5 star rating,1594 Rockaway Pkwy,Canarsie
+Cafe Bora Bora,7182754900,19.0,$$,"Breakfast & Brunch, Cafes, Bagels",3 star rating,9708 Queens Blvd,Rego Park
+Marcy & Myrtle Cafe,9176487800,19.0,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,101 N 10th St,Williamsburg - North Side
+Spring Streets Finest Deli,2123432335,19.0,$,"Delis, Bagels, Burgers",4 star rating,322 Spring St,South Village
+Joans Bagel And Deli Shop,2019454020,20.0,$,"Bagels, Delis, Grocery",4 star rating,672 Shaler Blvd,
+Queens Bagel Town,7189971537,20.0,$,Bagels,2.5 star rating,10101 Queens Blvd,Forest Hills
+Madison Bagel & Grill,2126084694,20.0,$$,"Breakfast & Brunch, Bagels",2.5 star rating,5 Madison St,Civic Center
+Clove Road Bagels,7187276000,20.0,$,"Bagels, Coffee & Tea, Grocery",3 star rating,1300 Clove Rd,Sunnyside
+Mott Haven Bagel & Barista Cafe,7182920600,20.0,,"Cafes, Bagels, Burgers",3.5 star rating,221 E 138th St,Mott Haven
+Bagels on the Square,5167750777,21.0,$$,"Bagels, Breakfast & Brunch",2 star rating,529 Franklin Ave,
+Hot & Toasty Bagels,2013390755,21.0,$,"Bagels, Coffee & Tea, Sandwiches",4 star rating,1026 Avenue C,
+Bagel Express,2015686191,21.0,$,"Bagels, Burgers, Delis",2.5 star rating,264 Grand Ave,
+Bagel Land,7182731963,21.0,$,Bagels,3.5 star rating,1841 Forest Ave,Graniteville
+Bagel Town,5165055556,21.0,$,"Bagels, Salad, Breakfast & Brunch",4 star rating,488 Hempstead Ave,
+Gotta Getta Bagel Of Woodmere,5165696628,21.0,$,"Bakeries, Bagels, Breakfast & Brunch",4 star rating,1039 Broadway,
+Sunset Bagels Cafe & Grill,7185146422,22.0,,"Bagels, Breakfast & Brunch, American (Traditional)",3 star rating,946 4th Ave,Sunset Park
+Heavenly Market And Cafe,6466093166,22.0,,"Delis, Bagels, Sandwiches",4 star rating,44 E 8th St,Greenwich Village
+Hot Bagels,7186334009,22.0,$,"Bagels, Bakeries, Sandwiches",3.5 star rating,4807 13th Ave,Borough Park
+Beach Bagel,7184741512,22.0,$,Bagels,4 star rating,438 Beach 129th St,Rockaway Park
+Bagels & More,,22.0,,Bagels,3.5 star rating,365 W 34th St,Midtown West
+Emmons Bagels,7189347665,23.0,$$,Bagels,3 star rating,2253 Emmons Ave,Sheepshead Bay
+Bagelicious,7182560300,23.0,$,"Bagels, Coffee & Tea, Grocery",3.5 star rating,7501 13th Ave,Dyker Heights
+Angelinas Panini Bar,5167923957,23.0,$,"Sandwiches, Fruits & Veggies, Bagels",1.5 star rating,,LaGuardia Airport
+Ginbos Hamburger House,3479634644,23.0,$,"Burgers, Sandwiches, Bagels",3 star rating,118 E 170th St,Concourse
+Bagelo,5165697052,24.0,$$,Bagels,2 star rating,1033 Broadway,
+Au Bon Pain Terminal C,,24.0,$,"Bagels, Coffee & Tea",2 star rating,,LaGuardia Airport
+Brothers Bagels,7182662230,24.0,,Bagels,3.5 star rating,532 Neptune Ave,Brighton Beach
+Cafeccino Bakery,7182100579,24.0,$,"Cafes, Bagels, Pizza",4 star rating,269 W 231st St,Kingsbridge
+Harris Bakes,2126910200,25.0,,"Bakeries, Custom Cakes, Bagels",5 star rating,72 Bedford St,West Village
+Bagel Deli Plus,9146687738,25.0,$$,Bagels,3.5 star rating,480 New Rochelle Rd,
+My Three Sons Bagel Cafe,5164089998,25.0,$,"Coffee & Tea, Bagels, Breakfast & Brunch",3 star rating,295 Nassau Blvd,
+Bagel Cafe,7184943232,25.0,$$,"Bagels, Breakfast & Brunch, Burgers",2.5 star rating,3579 Victory Blvd,New Springville
+The Great American Bagel Bakery,6465967105,25.0,,"Bagels, Coffee & Tea, Breakfast & Brunch",1.5 star rating,,Financial District
+Bagel Depot Richmondtown,7189877682,25.0,$,Bagels,2.5 star rating,3459 Richmond Rd,Richmond Town
+Between The Bun,7184806342,25.0,$,"Bagels, Sandwiches, Burgers",3.5 star rating,131-03 101st Ave,Ozone Park
+Mikes Bagel Deli & Pizza,9082595550,26.0,$$,"Bagels, Delis",2.5 star rating,711 E 1st Ave,
+Bagel Road,7186761471,26.0,$,"Bagels, Sandwiches",2 star rating,1424 Sheepshead Bay Rd,Brighton Beach
+The Bettered Bagel,7183030230,26.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3.5 star rating,1777 S Ave,
+The Bagel Store,3475294301,26.0,,"Bagels, Delis, Coffee & Tea",4 star rating,69 5th Ave,Park Slope
+Bagel Pub,,26.0,,"Coffee & Tea, Breakfast & Brunch, Bagels",4.5 star rating,57 7th Ave,Park Slope
+Everything Bagels & Deli,2016209535,26.0,,"Bagels, Delis",4.5 star rating,91 E 22nd St,
+Blue & Gold Deli,2127555505,26.0,$,"Sandwiches, Coffee & Tea, Bagels",4 star rating,1075 1st Ave,Midtown East
+Bagel Express,5163417666,26.0,$$,"Bagels, Coffee & Tea",3.5 star rating,207A W Merrick Rd,
+Smileys Bagels,7184423354,26.0,$,"Bagels, Burgers, Sandwiches",3 star rating,1980 Victory Blvd,
+Bagel Parlor,7183573577,26.0,,"Bagels, Bakeries, Caterers",4.5 star rating,14-37 150th St,
+Bagel Pub,,26.0,,"Juice Bars & Smoothies, Breakfast & Brunch, Bagels",4 star rating,313 36th St,Sunset Park
+Hillside Gourmet,7189806363,27.0,$$,"Bagels, Breakfast & Brunch, Sandwiches",2 star rating,1664 Richmond Rd,Dongan Hills
+Sammys New York Bagels,9142357800,27.0,$$,"Bagels, Breakfast & Brunch",3.5 star rating,110 Centre Ave,
+NY Hot Bagels & Bialys,7189971537,27.0,$$,Bagels,3 star rating,101-01 Queens Blvd,Forest Hills
+Bake a Bagel,7183262197,27.0,,Bagels,4.5 star rating,60-94 Flushing Ave,Maspeth
+Black Seed Bagels,,27.0,,Bagels,2 star rating,30 Rockefeller Plz,Midtown West
+Ace Bagels Cafe,7189397618,27.0,$,"Bagels, Delis",3.5 star rating,5906 Main St,Queensborough Hill
+Bagels & More,,27.0,,Bagels,3 star rating,1585 3rd Ave,Yorkville
+Forest Avenue Bagels,7187205827,28.0,$,Bagels,3.5 star rating,1180 Forest Ave,Westerleigh
+Amazing Bagel,7327215577,28.0,$,"Breakfast & Brunch, Bagels",3 star rating,499 Ernston Rd,
+Casella Bagel Coffee Shop,7185225641,28.0,$,"Coffee & Tea, Bagels, Cuban",3.5 star rating,66 Willoughby St,Downtown Brooklyn
+Parva Bakeshop Cafe,7184339336,28.0,,"Coffee & Tea, Bakeries, Bagels",4.5 star rating,8201 Northern Blvd,Jackson Heights
+Mrs. Bagelsworth,2012243550,28.0,$,"Cuban, Delis, Bagels",4 star rating,1209 Anderson Ave,
+Moduwa York 84,9172615454,28.0,,"Delis, Bagels",4 star rating,1592 York Ave,Yorkville
+Flatbush Bagels,7184695700,29.0,,"Sandwiches, Bagels, Cafes",2 star rating,557 Flatbush Ave,Prospect Lefferts Gardens
+Bagels on Kings,7183720024,29.0,$$,Bagels,2.5 star rating,228 Kings Hwy,Bensonhurst
+Bionic Bagel Corporation,7186483794,29.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,3741 Nostrand Ave,Sheepshead Bay
+The Gourmet Bagel Shoppe,7182099109,29.0,$$,Bagels,2 star rating,6220 Avenue U,Mill Island
+Dawa 91,6468337222,29.0,$,"Delis, Bagels, Grocery",3 star rating,1748 2nd Ave,Yorkville
+Yum-Yum,2018409998,29.0,$,"Ice Cream & Frozen Yogurt, Bagels",3.5 star rating,677 Anderson Ave,
+9W Gourmet Deli,2015039000,29.0,$,"Coffee & Tea, Bagels, Delis",3 star rating,476 Sylvan Ave,
+Bagels and Bialys,5166219520,30.0,$,"Bagels, Bakeries, Delis",3.5 star rating,1152 Willis Ave,
+Dannys Bagels,5165969394,30.0,$,Bagels,3.5 star rating,8 Ocean Ave,
+Lemoine Hot Bagels Deli,2015851988,30.0,$,Bagels,3.5 star rating,2455 Lemoine Ave,
+The Bagel Bin,7184422300,30.0,$,Bagels,3 star rating,486 Forest Ave,West Brighton
+Union Bagel Cafe,5162563360,31.0,$,"Bagels, Coffee & Tea",4 star rating,1 Union Ave,
+Mikey Bagels,7189849700,31.0,$,Bagels,3.5 star rating,7420 Amboy Rd,Tottenville
+Riverdale Bagels,7186014502,31.0,$$$,Bagels,3.5 star rating,5650 Riverdale Ave,North Riverdale
+Bagel Bin,7184416669,31.0,$,"Bagels, Delis, Sandwiches",3 star rating,8610 Jamaica Ave,Woodhaven
+Island Bagel Bar,5163713357,31.0,$,Bagels,2 star rating,284 Burnside Ave,
+Pizza Palace Cafe,7189977492,32.0,$,"Pizza, Sushi Bars, Bagels",3.5 star rating,63-60 108th St,Forest Hills
+Williamsburg Bagel,7183840904,32.0,$,"Cafes, Breakfast & Brunch, Bagels",4 star rating,343 Roebling St,South Williamsburg
+Broadway Bagels,7323161160,32.0,$,"Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,105 S Broadway,
+Simons Deli & Bagels,7185623354,32.0,$,"Delis, Sandwiches, Bagels",3 star rating,2479 Arthur Ave,Belmont
+Boardwalk Bagel,5162393900,33.0,$,"Delis, Bagels",4.5 star rating,105 Putnam Blvd,
+Munsey Park Bagels,5168698077,33.0,$,Bagels,3.5 star rating,1661 Northern Blvd,
+Original Brooklyn Bagel,7182535928,33.0,$$,Bagels,4.5 star rating,2835 Nostrand Ave,Midwood
+F&M Bagels,7188552623,33.0,$,"Bagels, Sandwiches, Delis",3.5 star rating,383 Van Brunt St,Red Hook
+Bagel Express II,2128793960,33.0,$,"Delis, Bagels",2 star rating,1228 2nd Ave,Upper East Side
+Ace Bagels,7182240014,33.0,$,"Bagels, Sandwiches",3.5 star rating,25305 Northern Blvd,Douglaston
+Bagels Plus,7182321404,33.0,$$,"Bagels, Bakeries",3 star rating,7501 New Utrecht Ave,Bensonhurst
+LIC Bagel & Deli,7187073333,33.0,,"Delis, Bagels",4 star rating,41-04 27th St,Long Island City
+Bagelery,3475060737,33.0,,Bagels,3 star rating,156-19 Northern Blvd,Murray Hill
+7 Bagels & Deli,7182971385,33.0,$,"Delis, Bagels",4 star rating,8515 Main St,Briarwood
+Knapp Street Bagels,7189340200,34.0,$,Bagels,3 star rating,2771 Knapp St,Sheepshead Bay
+Au Bon Pain,7184200846,34.0,$,"Coffee & Tea, Bagels, Sandwiches",2.5 star rating,1 Bay St,St. George
+Linden Bagel Shop & Deli,9087185426,34.0,$,"Bagels, Delis",4 star rating,105 Wood Ave,
+Bagels & More,2018861112,34.0,$,Bagels,3.5 star rating,1040 River Rd,
+Java Day,7189615555,34.0,$,"Breakfast & Brunch, Sandwiches, Bagels",4 star rating,43 58 162nd St,Murray Hill
+Bagel Doctor West,5163587400,34.0,$,Bagels,4 star rating,380 Franklin Ave,
+Optimum Gourmet Deli,2124774400,35.0,$,"Delis, Bagels, Sandwiches",4.5 star rating,243 Broome St,Lower East Side
+Peters Hot Bagels,7183521498,35.0,$,"Bagels, Bakeries",3 star rating,47-04 Bell Blvd,Bayside
+Springtree Bagels,2015695636,35.0,$,Bagels,4 star rating,5 W Hudson Ave,
+New York Bagel Stop,5163581610,35.0,$,Bagels,4.5 star rating,1011 Jericho Tpke,
+Bagelman of Mineola,5162807445,35.0,$,Bagels,3.5 star rating,358 E Jericho Tpke,
+Park Bagels,7183312090,35.0,$$,Bagels,4 star rating,1410 86th St,Dyker Heights
+Pio Hot Bagels,7186056100,36.0,$,"Bagels, Delis",3.5 star rating,655 Rossville Ave,Rossville
+Main Street Bagels,7187938100,36.0,$,"Bagels, Delis, Caterers",3 star rating,7226 Main St,Kew Gardens Hills
+Greenbergs Bagels,3478600455,36.0,,"Bagels, Sandwiches",4 star rating,1065 Bedford Ave,Bedford Stuyvesant
+Bagel Boss - Queens,7187362677,36.0,,"Kosher, Bagels, Caterers",4 star rating,69-48 Main St,Kew Gardens Hills
+Sams Bagels,7186805700,37.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,7715 5th Ave,Bay Ridge
+Rolen Bagels,7186015357,37.0,$,Bagels,3 star rating,3601 Riverdale Ave,Riverdale
+Corner Gourmet II,2124062200,37.0,$,"Coffee & Tea, Bagels",2 star rating,66 W Broadway,TriBeCa
+Lennys Bagels,9143555445,37.0,$,"Bagels, Delis, Sandwiches",3 star rating,4662 Boston Post Rd,
+Bagels and Wraps,7187681052,38.0,$,Bagels,3 star rating,523 5th Ave,South Slope
+Bagelette,7184590204,38.0,$,Bagels,3.5 star rating,9742 63rd Rd,Rego Park
+Bagels By The Bay,7188154447,38.0,$,"Bagels, Breakfast & Brunch",3.5 star rating,1235 Bay St,Shore Acres
+McLean Avenue Bagel Cafe,9147762000,38.0,$$,"Delis, Bagels",3.5 star rating,943 McLean Ave,
+Bagels Plus,7185913615,38.0,$,"Bagels, Coffee & Tea, Sandwiches",3.5 star rating,70-39 Parsons Blvd,Pomonok
+Dale Bagels,7182322368,38.0,$,Bagels,3.5 star rating,6201 18th Ave,Bensonhurst
+The Bagel Factory,7187688300,39.0,$,Bagels,3.5 star rating,461 5th Ave,South Slope
+Bagels N A Hole Lot More,5163552000,39.0,$,"Bagels, American (Traditional)",3 star rating,2093 Hillside Ave,
+Jrs Bagels,7184686061,39.0,$,"Bagels, Delis",3 star rating,222-10 Union Turnpike Bayside,Oakland Gardens
+Bagel Depot,7189488755,40.0,$$,Bagels,2.5 star rating,3854 Richmond Ave,Eltingville
+Bagel Mentch,5164872243,40.0,$,"Bagels, Kosher",2.5 star rating,176 Middle Neck Rd,
+Bagel Tree,6465598912,40.0,$,"Bagels, Burgers, Sandwiches",3.5 star rating,245 E 124th St,East Harlem
+H & L Bagels,7187486626,41.0,$,Bagels,4 star rating,8818 3rd Ave,Bay Ridge
+Bay Bagels,7189753123,41.0,$,"Bagels, Breakfast & Brunch",3 star rating,6302 Bay Pkwy,Bensonhurst
+All American Bagel & Barista II,7189452233,41.0,$,"Bagels, Sandwiches",3.5 star rating,20-10 Cross Bay Blvd,
+New York City Bagels & Deli Cafe,9082068880,42.0,$,"Bagels, Delis, Sandwiches",4.5 star rating,2264 US Hwy 22E,
+Barbaras Bagels,5164843245,43.0,$$,"Caterers, Bagels",3.5 star rating,113 Mineola Ave,
+Buongiorno Bagel Cafe,7188943356,43.0,$$,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,7010 88th St,Glendale
+Bake City Bagels,7183390800,43.0,$,"Bakeries, Bagels, Breakfast & Brunch",4 star rating,357 Ave X,Gravesend
+Broadway Hot Bagels,2013390704,43.0,$,"Bagels, Bakeries, Coffee & Tea",3.5 star rating,581 Broadway,
+LIE Bagels,7182297101,43.0,$,Bagels,4.5 star rating,21025 Horace Harding Expy,
+Tulip Bagels,5166160065,43.0,,"Bagels, Coffee & Tea, Breakfast & Brunch",3.5 star rating,175 Tulip Ave,
+Reben Luncheonette Morir Soand,7183887696,44.0,$,"Breakfast & Brunch, Bagels, Sandwiches",4.5 star rating,229 Havemeyer St,Williamsburg - South Side
+Cropsey Bagels & Deli,7189969700,44.0,$,"Bagels, Desserts, Delis",4 star rating,2819 Cropsey Ave,Coney Island
+New York City Bagel & Coffee House,7187770324,44.0,$,"Sandwiches, Coffee & Tea, Bagels",3.5 star rating,2910 Broadway,Astoria
+Gerritsen Beach Bagels,7189341454,44.0,$,"Bagels, Sandwiches, Bakeries",4 star rating,2712 Gerritsen Ave,Gerritson Beach
+Bagels N Buns,7187611900,44.0,$,"Bagels, Bakeries, Coffee & Tea",3.5 star rating,2491 Victory Blvd,Westerleigh
+US Bagels,5168231647,44.0,$,Bagels,4.5 star rating,155 Rockaway Ave,
+Buk przez Bibuk,,45.0,$,"Breakfast & Brunch, Bagels, Sandwiches",4 star rating,ul. Puławska 24,Stary Mokotów
+Village Square Bagels,9148346969,45.0,$$,Bagels,2.5 star rating,1262 Boston Post Rd,
+My Three Sons Bagels,5162809210,45.0,$,Bagels,3.5 star rating,974 Franklin Ave,
+Manor Bagels & Superette,7183701292,45.0,$$$$,"Bagels, Delis",2.5 star rating,931 Manor Rd,Castleton Corners
+Rockaway Bagels,7184741372,45.0,$,Bagels,4 star rating,11408 Beach Channel Dr,Rockaway Park
+What A Bagel,7183430303,45.0,$,Bagels,3 star rating,25701 Union Tpke,Floral Park
+Bagel Town,5164668080,45.0,$,Bagels,2 star rating,45 Northern Blvd,
+Bagel Man of Great Neck,5168297237,46.0,$,"Coffee & Tea, Bagels",3.5 star rating,491 Great Neck Rd,
+Dichter Pharmacy & Soda Shoppe,2125691230,46.0,$,"Drugstores, Bagels",4.5 star rating,4953 Broadway,Inwood
+Country Donuts,7189677111,47.0,$,"Bagels, Donuts, Juice Bars & Smoothies",3.5 star rating,3235 Richmond Ave,Great Kills
+Heartland Bagels 2,7189668494,47.0,$,"Bagels, Donuts, Delis",4 star rating,1024 Rossville Ave,Rossville
+Bagel Shoppe,7184236692,47.0,$,Bagels,3.5 star rating,21503 73rd Ave,Oakland Gardens
+Cinos Hot Bagels,5164425301,48.0,$,"Bagels, Coffee & Tea, Sandwiches",4 star rating,2941 Long Beach Rd,
+Bagels & Co.,2127170505,48.0,$,"Bakeries, Bagels, Pizza",3 star rating,1428 York Ave,Upper East Side
+Bagel Haus,5167466262,48.0,$,"Bagels, Sandwiches, Breakfast & Brunch",3 star rating,2413 Jericho Tpke,
+Wonder Bagels,2013390205,48.0,$,"Bagels, Coffee & Tea",3 star rating,311 Bayonne Crossing Way,
+Wu & Nussbaum,2122220040,48.0,$$,"Chinese, Noodles, Bagels",3.5 star rating,2897 Broadway,Morningside Heights
+We Bagel,7182551992,48.0,,"Coffee & Tea, Bagels, Juice Bars & Smoothies",4 star rating,47-11 11th St,Hunters Point
+Knapp Street Bagel Cafe,7189431525,49.0,$,Bagels,2.5 star rating,2145 Knapp St,Marine Park
+Bagel Club,7183524948,49.0,$,"Bagels, Sandwiches",2.5 star rating,208-14 Cross Island Pkwy,Bay Terrace
+Champs Gourmet Deli,2123634000,49.0,$,"Delis, Bagels, Sandwiches",3.5 star rating,30 Broad St,Financial District
+Wonder Bagels,2013241540,50.0,$,Bagels,3.5 star rating,431 Danforth Ave,
+Corvo Coffee,9174092479,50.0,$,"Coffee & Tea, Bagels",4 star rating,270 W 39th St,Midtown West
+The Brothers Deli & Bagel,7186800582,50.0,$,"Delis, Bagels, Sandwiches",4 star rating,7105 Fort Hamilton Pkwy,Dyker Heights
+Columbus Cafe,2127219040,50.0,$,"Bagels, Delis",3.5 star rating,556 Columbus Ave,Upper West Side
+Enjoy My Bagels,7188322435,51.0,$,Bagels,3 star rating,959 4th Ave,Sunset Park
+Manhattan Bagel,2013549100,52.0,$,"Coffee & Tea, Bagels, Sandwiches",2 star rating,709 Broadway,
+Wow Bagel,7183815700,52.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3.5 star rating,6864 Fresh Pond Rd,Ridgewood
+Queens Bagels & Delicatessen,3473924517,52.0,$,"Breakfast & Brunch, Bagels, Sandwiches",4.5 star rating,103-05 Metropolitan Ave,Forest Hills
+Thompson Finest Deli,2123432337,53.0,$,"Delis, Bagels, Sandwiches",4 star rating,20 Thompson St,South Village
+Bobby Spot Nuvo Cafe,3476491326,54.0,$,"Cafes, Bagels, Coffee & Tea",2.5 star rating,47-01 Van Dam St,Sunnyside
+Bunch-O-Bagels,7186040634,54.0,$,"Bagels, Salad, Sandwiches",4 star rating,361 Troy Ave,Wingate
+Old Country Bagel,7188459211,54.0,$,Bagels,3.5 star rating,16226A Crossbay Blvd,Howard Beach
+Bagel Villa,7187451175,54.0,$,"Sandwiches, Breakfast & Brunch, Bagels",4 star rating,7221 5th Ave,Bay Ridge
+Three Star Bagels,2012243745,55.0,$$,"Bagels, Delis",3 star rating,270 Columbia Ave,
+Middle Village Bagels,7184578936,55.0,,"Bagels, Delis",3.5 star rating,79-16 Eliot Ave,Middle Village
+Konditori,6466923229,55.0,$,"Coffee & Tea, Bakeries, Bagels",4 star rating,135 William St,Financial District
+J & J Bagel,2019417100,56.0,$,"Delis, Bagels",4 star rating,576 Bergen Blvd,
+Bagel Buffet,2129248911,57.0,$,"Bagels, Buffets",4 star rating,510 Ave Of Americas,Greenwich Village
+Kosher Bagel Hole,7182584150,57.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,1423 Ave J,Midwood
+Bagels On Bartow,7186715696,58.0,$,"Bagels, Breakfast & Brunch",4.5 star rating,2033 Bartow Ave,Co-op City
+Fantastic Bagels,7182380733,58.0,$,"Bagels, Breakfast & Brunch",3.5 star rating,8614 4th Ave,Bay Ridge
+Double J Deli,7183803515,58.0,$,"Bagels, Delis",3.5 star rating,16802 Union Tpke,Hillcrest
+Bagels & Beans,9086863200,59.0,$,"Breakfast & Brunch, Bagels, Coffee & Tea",3.5 star rating,342 Chestnut St,
+H & R Bialy,9145761411,59.0,$,Bagels,4 star rating,41 Quaker Ridge Rd,
+Gramatan Bagel Cafe,9146677726,59.0,$,"Breakfast & Brunch, Bagels, Delis",2 star rating,552-554 Gramatan Ave,
+La Luna Cafe,7186060094,59.0,$,"Bagels, Cafes",4 star rating,4401 30th Ave,Astoria
+Hudson Bagel,2122451200,60.0,$,Bagels,3 star rating,691 9th Ave,Hell's Kitchen
+Bagel Time,7187460686,60.0,$,"Bagels, Salad, Breakfast & Brunch",4.5 star rating,15051 14th Ave,Beechurst
+Bagel Supreme,7187451108,60.0,$,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,9401 5th Ave,Fort Hamilton
+Michaels Bagels,7187935794,61.0,$,"Bakeries, Bagels, Sandwiches",3.5 star rating,10827 Ascan Ave,Forest Hills
+Mill Basin Bagel Cafe,7185313630,61.0,$,"Bagels, Bakeries, Breakfast & Brunch",2.5 star rating,6319 Ave N,Mill Basin
+Roma Bagels And Pastry Cafe,7188864800,61.0,$$,"Bakeries, Coffee & Tea, Bagels",3.5 star rating,3331 Francis Lewis Blvd,Bayside
+Traditional Bagel Caf,9146321045,62.0,$,Bagels,4.5 star rating,1279 North Ave,
+Manhattan Bagel,9086874900,62.0,$,"Bagels, Breakfast & Brunch, Caterers",3.5 star rating,1350 Galloping Hill Rd,
+Bagels Plus,7186397784,62.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,5720 Woodside Ave,Woodside
+Russ & Daughters - Brooklyn,2124754880,63.0,$$,"Bagels, Bakeries, Delis",3 star rating,141 Flushing Ave,
+Finns Bagels,2122730700,64.0,,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,477 10th Ave,Midtown West
+Sofia & Grace Cookie,7184508034,66.0,$,"Coffee & Tea, Desserts, Bagels",4.5 star rating,163 Ralph Ave,Bedford Stuyvesant
+Manor Bagels Caf,9142077435,67.0,$,"Bagels, Coffee & Tea, Sandwiches",4.5 star rating,46 Warburton Ave,
+Bagel Hut,5164828939,67.0,$,Bagels,3.5 star rating,503 Middle Neck Rd,
+Bagels and Cream,7189755101,67.0,$,"Bagels, Sandwiches, Coffee & Tea",3.5 star rating,1728 Eastchester Rd,
+Pumpernickel Bagel,7183619422,68.0,$,"Bagels, Cafes, Desserts",3 star rating,2310 44th Dr,Long Island City
+Bagel Story,,68.0,,"Delis, Bagels, Coffee & Tea",3 star rating,1237 Fulton St,Bedford Stuyvesant
+P & C Bagels,7183268510,68.0,$,Bagels,3 star rating,7905 Metropolitan Ave,Middle Village
+Bagels R Us,7189672299,68.0,$,Bagels,3.5 star rating,4300 Amboy Rd,Great Kills
+Palisade Bagel,2013638899,68.0,$,"Bagels, Wraps, Sandwiches",3 star rating,1611 Palisade Ave,
+Boulevard Bagel Cafe,7187771273,69.0,$,Bagels,2.5 star rating,30-07 Astoria Blvd,Astoria
+Gourmet Bagel,2125353030,69.0,$,"Bagels, Breakfast & Brunch",2.5 star rating,874 Lexington Ave,Upper East Side
+Brooklyn Barista,3478895755,69.0,$,"Coffee & Tea, Sandwiches, Bagels",4.5 star rating,880 Wyckoff Ave,Bushwick
+Line Bagels,7184220001,70.0,$,"Sandwiches, Bagels, Burgers",3.5 star rating,476 Smith St,Carroll Gardens
+New York Hot & Fresh Bagels,2123484395,71.0,$,"Bagels, Delis",3 star rating,1585 3rd Ave,Yorkville
+Max Bialystok & Company,5164325300,72.0,$,"Bagels, Sandwiches, Coffee & Tea",3.5 star rating,159 E Park Ave,
+JK Bakery,7185393563,72.0,$,"Bakeries, Bagels, Coffee & Tea",4 star rating,2914 Union St,Downtown Flushing
+My Three Sons Bagel Cafe,5164374447,72.0,$,Bagels,4 star rating,88 Covert Ave,
+Bagel Bazaar,7189967440,73.0,$,Bagels,4 star rating,2208 86th St,Bath Beach
+Bagels on Park,2013300625,74.0,,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,3506 Park Ave,
+Wild Bagels,7183339453,74.0,$,Bagels,3.5 star rating,1901 Stillwell Ave,Gravesend
+Olives,2128580111,74.0,$$,"Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,225 Liberty St,Battery Park
+Bagel House IV,7185075573,75.0,$,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,8918 Northern Blvd,Jackson Heights
+Andys Deli,2127993355,76.0,$,"Grocery, Bagels, Delis",3.5 star rating,418 Columbus Ave,Upper West Side
+Cresskill Hot Bagels,2015693909,77.0,$,"Bagels, Cafes",2.5 star rating,23 Union Ave,
+Metropolitan Cafe,2013133325,78.0,$,"Bagels, Burgers, Delis",3.5 star rating,153 Bergen Blvd,
+Zee Bagels,3475548700,78.0,$,Bagels,4 star rating,2803 Ave U,Sheepshead Bay
+Mixtape Bushwick,7183815248,78.0,$,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,1533 Myrtle Ave,Bushwick
+Bagel World,7186432686,78.0,$,"Bagels, Breakfast & Brunch",3.5 star rating,223 Dekalb Ave,Fort Greene
+Bagel Boss,5165698600,79.0,$$,Bagels,3 star rating,1352 Peninsula Blvd,
+Park Terrace Deli,2125695990,79.0,$,"Delis, Bagels",3.5 star rating,510 W 218th St,Inwood
+Bagel Boss - Roslyn Heights,5166265599,80.0,$$,"Bagels, Salad, Seafood",2.5 star rating,400 Willis Ave,
+Buk przez Bibuk,,80.0,$,"Cafes, Breakfast & Brunch, Bagels",4.5 star rating,ul. Zgoda 3,Śródmieście
+All American Bagel & Barista Company,7183227722,80.0,$,"Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,82-41 153rd Ave,Lindenwood
+Park Avenue Bagels,2012104111,80.0,$,"Bagels, Sandwiches, Breakfast & Brunch",4 star rating,7015 Park Ave,
+Myrtle Bagel,7188584916,82.0,$,"Bagels, Sandwiches",3.5 star rating,410 Myrtle Ave,Clinton Hill
+Chakra Cafe,9294620051,84.0,,"Coffee & Tea, Breakfast & Brunch, Bagels",4.5 star rating,44-01 Queens Blvd,Sunnyside
+Long Island Bagel Cafe - Mineola,5164275454,85.0,$,"Bagels, Delis",4 star rating,175 East Jericho Tpke,
+Toast & Roast Bagels and Coffee,9294600308,85.0,$,"Bagels, Coffee & Tea, Sandwiches",4 star rating,3207 Broadway,Astoria
+Adams Bagels & Deli,7185070839,85.0,$,"Bagels, Delis, Salad",3.5 star rating,6356 Woodhaven Blvd,Middle Village
+Hot Bagels,7184385650,85.0,$,"Bagels, Sandwiches, Delis",4 star rating,127 Church Ave,Kensington
+DOH,7326697626,86.0,$,"Coffee & Tea, Donuts, Bagels",4 star rating,77 E Milton Ave,
+New York Bagels Deli & Catering,9146139741,86.0,$,"Bagels, Delis",4 star rating,1032 Yonkers Ave,
+Manhattan Bagel,2018160008,86.0,$,"Breakfast & Brunch, Bagels, Sandwiches",3.5 star rating,14 West Palisade Ave,
+Chelsea Bagel & Cafe,2124622435,87.0,$,"Bagels, Salad, Breakfast & Brunch",3 star rating,139 W 14th St,Chelsea
+Hot Bialys & Bagels,7185440900,87.0,$,"Bakeries, Bagels, Coffee & Tea",4 star rating,116-63 Queens Blvd,Forest Hills
+Brooklyn Standard,7182188810,87.0,$$,"Juice Bars & Smoothies, Coffee & Tea, Bagels",3 star rating,766 Grand St,East Williamsburg
+Bagels & Co,7182177755,88.0,$$,Bagels,3 star rating,18802 Union Tpke,Fresh Meadows
+Manhasset Bagels,5166278100,89.0,$,"Bagels, Coffee & Tea, Bakeries",3 star rating,510 Plandome Rd,
+New York City Bagel & Coffee House,7187289512,89.0,$$,"Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,33-10 30th Ave,Astoria
+Bagels For You,7187939200,89.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,11329 Queens Blvd,Forest Hills
+Eastside Bagel & Appetizing,2127941655,89.0,$,Bagels,2.5 star rating,1496 1st Ave,Upper East Side
+Lynbrook Bagels,5165960917,90.0,$,Bagels,3.5 star rating,26 Atlantic Ave,
+Park Place Bagels,9147937114,90.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,9 Park Pl,
+La Bagel Delight,7183989529,90.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,122 7th Ave,Park Slope
+Binghamton Bagel & Deli,2019470003,91.0,$,"Bagels, Delis, Sandwiches",3 star rating,2151 Lemoine Ave,
+Coney Island Bagels,7183321906,91.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,2829 Coney Island Ave,Brighton Beach
+Bagels & Co,2124969400,91.0,$,Bagels,3.5 star rating,391 Amsterdam Ave,Upper West Side
+Magic Bagels,5168728779,91.0,$,Bagels,4 star rating,194 W Merrick Rd,
+Howard Beach Bagel Cafe,7188435700,91.0,$,Bagels,3.5 star rating,162-54 Crossbay Blvd,Howard Beach
+Hudsons Grill,2013339977,92.0,$$,"Sandwiches, Breakfast & Brunch, Bagels",3 star rating,160 Greene St,
+Cinnamon Girl,,92.0,$,"Coffee & Tea, Bagels, Vegan",3.5 star rating,277 Nostrand Ave,Bedford Stuyvesant
+Bagel Bistro Diner & Grill,7187206919,93.0,$$,"Bakeries, Bagels, American (New)",2.5 star rating,1810 Victory Blvd,
+Beach Bagel & Deli,5164317406,93.0,$,"Delis, Bagels",3.5 star rating,1090 W Beech St,
+Big Johns Coffee Shop & Grill,7189651808,93.0,$,"Bagels, Breakfast & Brunch, American (Traditional)",4 star rating,876 4th Ave,Sunset Park
+Slims,7182291140,94.0,$,"Bagels, Salad, Sandwiches",4 star rating,22118 Horace Harding Expy,Oakland Gardens
+Inwood Bagels,2125697770,95.0,$,Bagels,3.5 star rating,628 W 207th St,Inwood
+Liberty Bagel Cafe,7327388377,96.0,$,Bagels,3 star rating,326 New Brunswick Ave,
+The Lazy Llama Coffee Bar,6464101938,96.0,$$,"Bakeries, Coffee & Tea, Bagels",4.5 star rating,72 E 1st Street,East Village
+Teaneck Road Hot Bagels,2018330410,97.0,$,"Delis, Bagels, Kosher",4.5 star rating,976 Teaneck Rd,
+Have-A-Bagel,7187820111,97.0,$,"Bagels, Cafes",4 star rating,197 Havemeyer St,Williamsburg - South Side
+Best Bagels,5164829860,97.0,$,"Bakeries, Bagels",3 star rating,40 Middle Neck Rd,
+Milk & Pull,7188211155,98.0,$,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,778 Seneca Ave,Ridgewood
+Yorkville Bagel & Cafe,2129966544,98.0,$,"Bagels, Cafes, Juice Bars & Smoothies",4 star rating,1821 2nd Ave,Yorkville
+Tasty Bagels,7182361389,99.0,$,"Bagels, Salad, Breakfast & Brunch",4 star rating,1705 86th St,Bensonhurst
+Heartland Bagels,7187614289,99.0,$,"Bakeries, Bagels",4 star rating,2311 Richmond Ave,Heartland Village
+Bagel Boss - Lake Success,5164377100,102.0,$,"Bagels, Bakeries",3 star rating,1564 Union Tpke,
+Cafe Fresco,2125359030,103.0,$,"Delis, Cafes, Bagels",3 star rating,1239 1st Ave,Upper East Side
+Milk & Pull,3476278511,103.0,$,"Coffee & Tea, Bagels, Sandwiches",3.5 star rating,181 Irving Ave,Bushwick
+Chelsea Bagel Of Tudor City,2123687777,104.0,$,"Bagels, Cafes",3.5 star rating,800 2nd Ave,Midtown East
+Atlantic Bagels Cafe,7182549000,104.0,$,"Breakfast & Brunch, Bagels, Cafes",3 star rating,200 Clinton St,Brooklyn Heights
+Bread Brothers Bagel Cafe - Greenpoint,7185763837,105.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,912 Manhattan Ave,Greenpoint
+Bagels by the Park,7182461321,105.0,$,Bagels,2.5 star rating,323 Smith St,Gowanus
+The Bad Bagel,9293243130,105.0,$,"Sandwiches, Breakfast & Brunch, Bagels",3 star rating,40 Wyckoff Ave,Bushwick
+The Bushwick Diner,7185522455,106.0,$$,"Bagels, Diners, Breakfast & Brunch",2.5 star rating,299 Wyckoff Ave,Bushwick
+Bergen Boulevard Bagels,2019449003,106.0,$,Bagels,4 star rating,438 Bergen Blvd,
+Cafe Panino Mucho Giusto,2122292799,106.0,$,"Bagels, Breakfast & Brunch, Cafes",4.5 star rating,551 Hudson St,West Village
+Ange Noir Cafe,7183661520,107.0,$,"Coffee & Tea, Breakfast & Brunch, Bagels",4 star rating,247 Varet St,East Williamsburg
+Sunset Bagels,7188338233,107.0,$,Bagels,2 star rating,8624 5th Ave,Bay Ridge
+Skyline Gourmet Deli,2124592500,107.0,$,"Delis, Coffee & Tea, Bagels",4 star rating,700 10th Ave,Hell's Kitchen
+Russ & Daughters at the Jewish Museum - Temp. CLOSED,2124754880,108.0,$$,"Kosher, Bagels, Sandwiches",3.5 star rating,,Upper East Side
+Dyker Park Bagels,7188366336,108.0,$,"Bagels, Breakfast & Brunch, Coffee & Tea",3.5 star rating,713 86th St,Bay Ridge
+Bagel Boss,5162481155,109.0,$,"Bagels, Delis",3 star rating,43 Old Country Rd,
+Daily Bagel,2123714907,109.0,$,"Coffee & Tea, Bagels",2.5 star rating,1111 First Ave,Upper East Side
+Milk N Honey NYC,2127644400,109.0,$,"Pizza, Bagels, Kosher",3 star rating,12 E 46th St,Midtown East
+Prospect Provisions,3477632777,110.0,,"Sandwiches, Breakfast & Brunch, Bagels",5 star rating,597 4th Ave,South Slope
+Steves Bagels,7186805010,111.0,$,"Coffee & Tea, Bagels",3 star rating,6907 4th Ave,Bay Ridge
+Black Seed Bagels,6469151500,111.0,$$,"Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,1188 Broadway,Flatiron
+Bagelberry,7189321425,111.0,$,"Bagels, Korean, Cafes",3.5 star rating,3113 30th Ave,Astoria
+Slims Bagels and Bialys,7186311345,112.0,$,"Bakeries, Bagels",2.5 star rating,25431 Horace Harding Expy,Douglaston
+Shelskys Brooklyn Bagels,7188558817,113.0,,"Bagels, Coffee & Tea, Sandwiches",3 star rating,453 4th Ave,South Slope
+Highway Bagels,7183369200,113.0,$,"Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,1923 Kings Hwy,Midwood
+Davidovich Bakery,6469186763,114.0,$,"Bagels, Coffee & Tea, Bakeries",3.5 star rating,88 Essex St,Lower East Side
+Empire Bagels,7188284530,114.0,$,Bagels,4.5 star rating,3101 Westchester Ave,Pelham Bay
+Glendale Bagels & Quality Deli,7183811363,119.0,$,"Bagels, Wraps, Sandwiches",4 star rating,6935 Myrtle Ave,Glendale
+The Bagel Mill,2124260868,120.0,$,"Bagels, Sandwiches, Coffee & Tea",2.5 star rating,1700 1st Ave,Yorkville
+Bagels N Cream,7189692640,122.0,$,Bagels,3 star rating,80-02 Surrey Pl,Hillcrest
+Nagles Bagels,3473053007,125.0,$,"Coffee & Tea, Bagels, Breakfast & Brunch",2.5 star rating,378 Tompkins Ave,Bedford Stuyvesant
+The Bagel Factory - 17th St,7187680461,126.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,612 5th Ave,South Slope
+Brooklyn Bagel & Coffee Company,2124773070,126.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",4.5 star rating,63 E 8th St,Greenwich Village
+Hudson Bagels,2126752906,128.0,$,Bagels,3 star rating,82 Christopher St,West Village
+Harrisons Bagel Shop,8627723631,130.0,$,"Coffee & Tea, Breakfast & Brunch, Bagels",4 star rating,111 Frank E Rodgers Blvd S,
+Perk Up Cafe,2014360101,130.0,$$,"Coffee & Tea, Sandwiches, Bagels",4 star rating,317 Broadway,
+Not Just Bagels,7183518870,131.0,$$,"Bagels, Breakfast & Brunch, Burgers",2.5 star rating,1910 Hylan Blvd,Grant City
+94 Corner Cafe,2122801900,132.0,$,"Pizza, Sandwiches, Bagels",3 star rating,2518 Broadway,Upper West Side
+Mr Bagelsworth,2019450122,133.0,$,"Bagels, Breakfast & Brunch, Sandwiches",2.5 star rating,725 River Rd,
+Pick A Bagel,2127670208,133.0,$,"Bagels, Sandwiches",2.5 star rating,39 W End Ave,Upper West Side
+Bk Bagels,7184432323,133.0,$,"Juice Bars & Smoothies, Coffee & Tea, Bagels",4 star rating,1120 Broadway,Bushwick
+Zuckers Bagels & Smoked Fish,2122285100,134.0,$,"Bagels, Coffee & Tea, Delis",3 star rating,40 E 23rd St,Flatiron
+Long Island Bagel Cafe - Long Beach,5164322582,135.0,$,"Cafes, Bagels, Delis",3 star rating,757 E Park Ave,
+Long Island Bagel Cafe - Ocean Side / 24 Hour Bagel,5166787070,135.0,$$,"Bagels, Cafes, Delis",3.5 star rating,3452 Long Beach Rd,
+Tal Bagels,2123878100,135.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,357 1st Ave,Stuyvesant Town
+The Bagel Shop,2128608060,137.0,$$,Bagels,4 star rating,1659 3rd Ave,Yorkville
+Pio Bagel,7182372777,143.0,$,Bagels,3.5 star rating,136 Lawrence St,Downtown Brooklyn
+Ess-a-Bagel,3475898776,143.0,$$,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,108 W 32nd St,Midtown West
+Bagel Club,7184236106,143.0,$,"Bagels, Coffee & Tea, Sandwiches",3.5 star rating,20521 35th Ave,Bayside
+Cocoa Grinder,,143.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,6823 3rd Ave,Bay Ridge
+Pick-A-Bagel,2128320051,146.0,$,"Coffee & Tea, Bakeries, Bagels",2.5 star rating,785 Lexington Ave,Upper East Side
+La Bagel Delight at Dumbo,7186252235,148.0,$,"Bagels, Fast Food, Delis",3.5 star rating,104 Front St,DUMBO
+Bagel Boss Murray Hill,6463681880,148.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,544 3rd Ave,Murray Hill
+JPs Bagel Express,2019635522,152.0,$,"Bagels, Breakfast & Brunch, Caterers",3.5 star rating,52 Newark St,
+Bagel Point,7183831600,154.0,,"Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,699 Manhattan Ave,Greenpoint
+Tribeca Bagels,2122268518,155.0,$,"Delis, Bagels, Bakeries",3 star rating,374 Canal St,TriBeCa
+Astoria Bagel Shop & Deli,7187285169,155.0,$,"Delis, Bagels, Breakfast & Brunch",4 star rating,2812 Ditmars Blvd,Astoria
+Rego Bagels,7184596265,156.0,$,"Bagels, Coffee & Tea, Sandwiches",4 star rating,9508 63rd Dr,Rego Park
+Lark Cafe,7186761410,162.0,$,"Coffee & Tea, Breakfast & Brunch, Bagels",3.5 star rating,1007 Church Ave,Flatbush
+Modern Bread and Bagel,6467752985,162.0,$$,"Breakfast & Brunch, Bakeries, Bagels",4 star rating,472 Columbus Ave,Upper West Side
+La Bagel Delight at Court St,7185220520,162.0,$,"Bagels, Salad, Breakfast & Brunch",3.5 star rating,90 Court St,Brooklyn Heights
+The Bagel Market,7182304700,163.0,$$,Bagels,3 star rating,106 7th Ave,Park Slope
+Lots-O-Bagels,7182677777,163.0,$,Bagels,3.5 star rating,3005 Broadway,Astoria
+Silk Road Cafe,6462399935,163.0,$,"Coffee & Tea, Bubble Tea, Bagels",3.5 star rating,30 Mott St,Chinatown
+Bagel Belly,2123532299,164.0,$,"Bagels, Sandwiches, Delis",3 star rating,114 Third Ave,East Village
+Whitestone Bagel Factory,7187627700,167.0,$,"Bagels, Coffee & Tea, Juice Bars & Smoothies",4 star rating,24-17 149th St,Whitestone
+Gramercy Bagels,2123880080,169.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,246 3rd Ave,Gramercy
+Bergen Bagels,7187896400,170.0,$,"Bagels, Bakeries",3 star rating,949 Fulton St,Clinton Hill
+Top Bagel,7182291700,176.0,$,Bagels,3 star rating,4018 Bell Blvd,Bayside
+Bagel Boss,2123889292,177.0,$,"Kosher, Bakeries, Bagels",3 star rating,263 1st Ave,Gramercy
+La Bagel Delight,7182463744,178.0,$,"Bagels, Breakfast & Brunch",3.5 star rating,73 Lafayette Ave,Fort Greene
+Sunset Bagels,7184370905,178.0,$,Bagels,2 star rating,4903 5th Ave,Sunset Park
+Bagel Schmagel,7188331774,181.0,$,Bagels,3 star rating,7510 3rd Ave,Bay Ridge
+Browns Bagels,2129710002,184.0,$$,"Bagels, Sandwiches, Coffee & Tea",3.5 star rating,132 W 31st St,Midtown West
+Sunset Bagels Cafe & Grill,7188879939,185.0,$$,"Delis, Cafes, Bagels",2.5 star rating,1501 Foster Ave,Flatbush
+Bagels On The Ave,7187210600,186.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",3 star rating,3315 30th Ave,Astoria
+Bagel Bobs,2125332627,186.0,$,Bagels,4 star rating,51 University Pl,Greenwich Village
+Bagel Express III,2122134700,188.0,$,"Bagels, Breakfast & Brunch",3 star rating,340 3rd Ave,Kips Bay
+Black Seed Bagels At Hudson Eats,6469151500,189.0,$$,"Bagels, Breakfast & Brunch, Sandwiches",2 star rating,200 Vesey St,Battery Park
+H&H Bagels,2124989828,190.0,$$,"Bagels, Salad, Sandwiches",2.5 star rating,526 Columbus Ave,Upper West Side
+Broadway Bagel,2126620231,194.0,$,"Bagels, Sandwiches, Burgers",4 star rating,2658 Broadway,Manhattan Valley
+Shelskys of Brooklyn Appetizing & Delicateseen,7188558817,197.0,$$$,"Seafood Markets, Bagels",4 star rating,141 Court St,Cobble Hill
+Rose & Joes Italian Bakery,7187219422,198.0,$,"Bakeries, Bagels, Pizza",4 star rating,2240 31st St,Astoria
+Hoboken Hot Bagels,2017989640,199.0,$,"Breakfast & Brunch, Bagels",3.5 star rating,634 Washington St,
+Tal Bagels,2127120171,201.0,$,Bagels,2.5 star rating,2446 Broadway,Upper West Side
+Heavens Hot Bagel,2124207566,202.0,$,"Bagels, Delis, Breakfast & Brunch",4 star rating,283 E Houston St,Lower East Side
+Mikes Bagels,2129282300,205.0,$,Bagels,4 star rating,4003 Broadway,Washington Heights
+Bread Brothers Bagel Cafe - Bushwick,7183815400,211.0,$,"American (Traditional), Bagels, Coffee & Tea",2.5 star rating,220 Bushwick Ave,East Williamsburg
+Gotta Getta Bagel,7187931640,212.0,$,Bagels,3 star rating,10709 71st Ave,Forest Hills
+Montague Street Bagels,7182372512,212.0,$,"Bagels, Salad, Sandwiches",3 star rating,108 Montague St,Brooklyn Heights
+Bagels & Brew,7185454440,213.0,$,"Bagels, Breakfast & Brunch, Cafes",4 star rating,43-05 Broadway,Astoria
+Old Country Coffee,6468612171,215.0,$,"Coffee & Tea, Bagels, Sandwiches",4.5 star rating,455 W 34th St,Chelsea
+Bagel World,7184991143,215.0,$,"Bagels, Salad, Breakfast & Brunch",4 star rating,339 5th Ave,Park Slope
+Bakers Dozen,7183492222,216.0,$,"Bagels, Breakfast & Brunch, Delis",3.5 star rating,788 Manhattan Ave,Greenpoint
+NY Bagels & Cafe,2127253777,216.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,587 1st Ave,Murray Hill
+Pick A Bagel,2127869200,217.0,$$,Bagels,2.5 star rating,102 N End Ave,Battery Park
+Court Street Bagels,7186243972,217.0,$,Bagels,4 star rating,181 Court St,Cobble Hill
+Bagel Cafe,2126799845,225.0,$,"Bagels, Sandwiches, Breakfast & Brunch",2.5 star rating,429 3rd Ave,Kips Bay
+Catskill Bagels,7182825049,225.0,$,"Coffee & Tea, Bagels, Sandwiches",2.5 star rating,1416 Cortelyou Rd,Flatbush
+A&S Bagels,5163269288,225.0,$,Bagels,4 star rating,761 Hempstead Tpke,
+Double Dutch Espresso,6464298834,226.0,$$,"Bagels, Coffee & Tea, Internet Cafes",4 star rating,2194 Frederick Douglass Blvd,Harlem
+Bergen Bagels,7187899300,232.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,536 Myrtle Ave,Clinton Hill
+Daniels Bagels,2129729733,232.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,569 3rd Ave,Murray Hill
+Tal Bagels,2127172080,236.0,$$,"Breakfast & Brunch, Bagels, Sandwiches",3 star rating,1228 Lexington Ave,Upper East Side
+Brownstone Bagel & Bread,7186226030,239.0,$,"Bagels, Coffee & Tea, Sandwiches",3.5 star rating,671 Union St,Gowanus
+Black Seed Bagels,6469151500,239.0,$$,"Bagels, Salad, Sandwiches",3 star rating,176 First Ave,East Village
+Tompkins Square Bagels - 2nd Ave,9174727639,239.0,$,"Bagels, Salad, Sandwiches",4 star rating,184 2nd Ave,East Village
+Lula Bagel,7187780581,239.0,$,"Bagels, Coffee & Tea, Sandwiches",3.5 star rating,816 Nostrand Ave,Crown Heights
+Bakers Dozen Bagels,7188471930,243.0,$,"Bagels, Coffee & Tea",4 star rating,8109 Lefferts Blvd,Kew Gardens
+Bagel Talk,2128751267,244.0,$,Bagels,3 star rating,368 Amsterdam Ave,Upper West Side
+Baked In Brooklyn Bakery Store,7187883164,245.0,$,"Bakeries, Bagels, Sandwiches",4 star rating,755 5th Ave,Sunset Park
+Knickerbocker Bagel,7187098888,246.0,$,"Wraps, Breakfast & Brunch, Bagels",4 star rating,367 Knickerbocker Ave,Bushwick
+Tal Bagels,2127539080,250.0,$,"Bagels, Salad, Breakfast & Brunch",3 star rating,979 1st Ave,Midtown East
+Sables Smoked Fish,2122496177,250.0,$$,"Seafood Markets, Sandwiches, Bagels",4 star rating,1330 3rd Ave,Upper East Side
+New York City Bagel & Coffee House,7187289511,250.0,$$,"Bagels, Coffee & Tea",4 star rating,40-05 Broadway,Astoria
+Pick-A-Bagel,2127174668,251.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3.5 star rating,1475 2nd Ave,Upper East Side
+Blue Marble,7183996926,253.0,$$,"Ice Cream & Frozen Yogurt, Coffee & Tea, Bagels",4 star rating,186 Underhill Ave,Prospect Heights
+Frankels Delicatessen,7183892302,256.0,$$,"Delis, Bagels, Sandwiches",4 star rating,631 Manhattan Ave,Greenpoint
+Forest Hills Bagel,7188962221,256.0,$,Bagels,3.5 star rating,10441 Queens Blvd,Forest Hills
+Bagel Bobs on York,2125353838,256.0,$,"Bagels, Coffee & Tea, Cafes",3.5 star rating,1641 York Ave,Yorkville
+Hand Rolled Bagels,5163521313,264.0,$,Bagels,4 star rating,930 Hillside Ave,
+Bagel Hole,7187884014,266.0,$,Bagels,3.5 star rating,400 7th Ave,South Slope
+Bagel Boy,7187480366,276.0,$,"Bagels, Breakfast & Brunch",4 star rating,8002 3rd Ave,Bay Ridge
+Olde Brooklyn Bagel Shoppe,7186226227,276.0,$,Bagels,3 star rating,645 Vanderbilt Ave,Prospect Heights
+Bagels On The Hudson,2017984777,280.0,$,Bagels,2.5 star rating,802 Washington St,
+Bantam Bagels,6468526320,280.0,$,"Bagels, Breakfast & Brunch",3 star rating,283 Bleecker St,West Village
+Pick A Bagel,2125176590,282.0,$,"Bagels, Breakfast & Brunch",3 star rating,1101 Lexington Ave,Upper East Side
+Zuckers Bagels & Smoked Fish,2128742800,282.0,$$,"Sandwiches, Coffee & Tea, Bagels",2.5 star rating,273 Columbus Ave,Upper West Side
+La Bagel Delight,7187686107,302.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,284 7th Ave,Park Slope
+Bagelsmith,3472940046,303.0,$,"Bagels, Salad, Sandwiches",3 star rating,566 Lorimer St,Williamsburg - North Side
+Java Day Cafe,7189614444,319.0,$$,"Coffee & Tea, Bagels, Breakfast & Brunch",4.5 star rating,16009 Northern Blvd,Murray Hill
+NY Jumbo Bagels,2123556185,320.0,$,"Bagels, Sandwiches, Coffee & Tea",4 star rating,1070 2nd Ave,Midtown East
+Bagel Pub,7187742243,323.0,$,"Breakfast & Brunch, Bagels, Coffee & Tea",3.5 star rating,775 Franklin Ave,Crown Heights
+Bagel Boy,7183323444,329.0,$$,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,1602 Ave Z,Sheepshead Bay
+Pick a Bagel,2126861414,334.0,$,"Bagels, Breakfast & Brunch, Sandwiches",3 star rating,210 E 23rd St,Gramercy
+BOs Bagels,9179028345,345.0,$,Bagels,4.5 star rating,235 W 116th St,Harlem
+The Jolly Goat Coffee Bar,6465098957,351.0,$,"Coffee & Tea, Cafes, Bagels",4.5 star rating,515 W 47th St,Hell's Kitchen
+Davids Bagels,2127802308,352.0,$,"Bagels, Delis, Sandwiches",4 star rating,273 1st Ave,Gramercy
+Terrace Bagels,7187683943,361.0,$,"Bagels, Sandwiches, Breakfast & Brunch",3.5 star rating,222 & 222A Prospect Park W,Windsor Terrace
+OBagel,2016838600,363.0,$,"Breakfast & Brunch, Bagels",3.5 star rating,600 Washington St,
+New York City Bagel Coffee House,7187289500,373.0,$$,Bagels,4 star rating,29-08 23rd Ave,Astoria
+Bagel Oasis,7183599245,375.0,$,"Bagels, Delis",4 star rating,18312 Horace Harding Expy,Fresh Meadows
+The Chipped Cup,2123688881,381.0,$$,"Coffee & Tea, Bagels",4 star rating,3610 Broadway,Harlem
+Bergen Bagels,7187897600,390.0,$,Bagels,4 star rating,473 Bergen St,Prospect Heights
+Smith St Bagels,7188586000,394.0,$$,"Bagels, Sandwiches, Burgers",4 star rating,202 Smith St,Cobble Hill
+Baz Bagel and Restaurant,2123350609,398.0,$$,"Breakfast & Brunch, Bagels, Diners",3.5 star rating,181 Grand St,Little Italy
+Tal Bagels,2124276811,398.0,$,"Bagels, Delis",3 star rating,333 E 86th St,Yorkville
+Bagelworks,2127446444,407.0,$,Bagels,4 star rating,1229 1st Ave,Upper East Side
+Brooklyn Bagel & Coffee Company,7189328280,431.0,$,"Coffee & Tea, Bagels, Breakfast & Brunch",4 star rating,35-09 Ditmars Blvd,Astoria
+Bagels on the Square,2126913041,447.0,$,"Bakeries, Bagels",4 star rating,7 Carmine St,West Village
+Bagel Pub,7184994402,470.0,$,"Cafes, Breakfast & Brunch, Bagels",4 star rating,287 9th St,Park Slope
+Brooklyn Bagel & Coffee Company,7187771121,473.0,$,"Coffee & Tea, Bagels",4 star rating,36-14 30th Ave,Astoria
+Wonder Bagels,2014338082,495.0,$,Bagels,4 star rating,517 Jersey Ave,
+Bagelsmith,7182187414,510.0,$,"Bagels, Coffee & Tea, Sandwiches",3.5 star rating,189 Bedford Ave,Williamsburg - North Side
+Zuckers Bagels & Smoked Fish,2126611080,512.0,$$,"Bagels, Breakfast & Brunch, Delis",3 star rating,370 Lexington Ave,Midtown East
+Bagels & Schmear,2127257873,518.0,$,"Bagels, Bakeries, Coffee & Tea",4 star rating,116 E 28th St,Flatiron
+Kossars,2124734810,536.0,$,"Bakeries, Bagels, Coffee & Tea",3.5 star rating,367 Grand St,Lower East Side
+Liberty Bagels Midtown,2122791124,555.0,$,"Breakfast & Brunch, Bagels, Sandwiches",4.5 star rating,260 W 35th St,Midtown West
+Utopia Bagels,7183522586,659.0,$,"Bakeries, Bagels, Sandwiches",4.5 star rating,1909 Utopia Pkwy,Bay Terrace
+Zuckers Bagels & Smoked Fish,2126085844,670.0,$,"Delis, Bagels, Breakfast & Brunch",3 star rating,146 Chambers St,TriBeCa
+Black Seed Bagels,6469151500,701.0,$$,"Breakfast & Brunch, Bagels, Sandwiches",3 star rating,170 Elizabeth St,Nolita
+Brooklyn Bagel & Coffee Company,7182040141,710.0,$,"Bagels, Coffee & Tea",4.5 star rating,35-05 Broadway,Astoria
+Barney Greengrass,2127244707,761.0,$$,"Specialty Food, Delis, Bagels",4 star rating,541 Amsterdam Ave,Upper West Side
+Zuckers Bagels And Smoked Fish,6466381335,816.0,$,"Bagels, Breakfast & Brunch, Delis",3.5 star rating,242 8th Ave,Chelsea
+H&H Bagels,2127347441,826.0,$,"Bagels, Breakfast & Brunch, Delis",4 star rating,1551 2nd Ave,Upper East Side
+Murrays Bagels,2124622830,849.0,$,Bagels,3.5 star rating,500 Ave Of The Americas,Greenwich Village
+Ess-A-Bagel,2122602252,870.0,$,"Bagels, Breakfast & Brunch, Sandwiches",4 star rating,324 1st Ave,Stuyvesant Town
+Pick A Bagel,2125828333,894.0,$$,"Bagels, Cafes",3.5 star rating,891 8th Ave,Theater District
+Leos Bagels,2127854700,895.0,$,"Coffee & Tea, Bagels, Breakfast & Brunch",3.5 star rating,3 Hanover Sq,Financial District
+The Donut Pub,6463987007,963.0,$$,"Bakeries, Donuts, Bagels",4 star rating,203 W 14th St,Chelsea
+Russ & Daughters Cafe,2124754881,1008.0,$$,"Bagels, Coffee & Tea, Delis",4 star rating,127 Orchard St,Lower East Side
+Zabars,2127872000,1020.0,$$,"Bakeries, Coffee & Tea, Bagels",4 star rating,2245 Broadway,Upper West Side
+Tompkins Square Bagels - Avenue A,6463516520,1141.0,$,Bagels,4 star rating,165 Avenue A,East Village
+Absolute Bagels,2129322052,1428.0,$,"Bakeries, Bagels",4.5 star rating,2788 Broadway,Manhattan Valley
+Brooklyn Bagel & Coffee Company,2129242824,1471.0,$,"Bagels, Breakfast & Brunch, Cafes",4 star rating,286 8th Ave,Chelsea
+Russ & Daughters,2124754880,2269.0,$$,"Bagels, Smokehouse, Bakeries",4.5 star rating,179 E Houston St,Lower East Side
+Best Bagel & Coffee,2125644409,3360.0,$,"Bagels, Coffee & Tea, Breakfast & Brunch",4.5 star rating,225 W 35th St,Midtown West
+Ess-a-Bagel,3473435728,3669.0,$,"Bakeries, Bagels, Delis",4 star rating,831 3rd Ave,Midtown East
+Center Bagel Store,2013461551,,,Bagels,,1415 Center Ave,
+Bagel Buddies,2018869792,,,Bagels,,1365 Inwood Ter,
+Pastrami & Pickles,6468592525,,,"Food Delivery Services, Bagels, Sandwiches",,30 Vandam St,South Village
+Bagels On the Lane,7186674100,,,Bagels,,166 New Dorp Ln,New Dorp
+Holiday Bagels,7189482200,,,Bagels,,4569 Amboy Rd,Eltingville
+M & L Bagels,7189792118,,,Bagels,,2724 Hylan Blvd,Oakwood
+Hole Lot of Bagels,7182275531,,,Bagels,,6372 Amboy Rd,Princes Bay
+Bagel World,7189803398,,,Bagels,,1244 Richmond Rd,Old Town
+Hot Bagels,7182272202,,,Bagels,,1307 Arthur Kill Rd,
+Brekkie Bagels,,,,Bagels,,1528 Amsterdam Ave,Harlem
+Mister Bagel of Broadway,7185490408,,,Bagels,,5672 Broadway,Kingsbridge
+Sun Bagels,7185191780,,,Bagels,,3405 Jerome Ave,Norwood
+Bagel Court Cafe,9144234077,,,Bagels,,750 Central Park Ave,
+Bronx Gourmet Deli,7185611334,,,"Restaurants, Coffee & Tea, Bagels",,921 E 180th St,East Tremont
+Intersection Deli,7184841812,,,"Coffee & Tea, Grocery, Bagels",,1103 Castle Hill Ave,Unionport
+Rose Bagels,5168230322,,,Bagels,,727 Franklin Ave,
+Bagels N A Hole Lot More,5164164620,,,"Bagels, Breakfast & Brunch, American (Traditional)",,2337 Jericho Turnpike,
+Ambrosia Bagel Cafe,5164812775,,,Bagels,,313 Nassau Blvd S,
+Bagel Bobs,5163742345,,,Bagels,,31 Franklin Ave,
+Bagelman of Hewlett,,,,Bagels,,1352 Peninsula Blvd,
+Tajses,5167912065,,,Bagels,,126 Mill Rd,
+Wholesome Foods,,,,"Bagels, Specialty Food",,,
+New York International Bagel & Coffee,7187060055,,$,"Street Vendors, Donuts, Bagels",,49-47 31st,Sunnyside
+Brekkie Bagels,3478559166,,,"Bagels, Food Delivery Services",,,Astoria
+A & N Deli and Grocery,7183928900,,,"Sandwiches, Coffee & Tea, Bagels",,3426 Steinway St,Astoria
+Nordomi Deli #3,7184552373,,$,"Bagels, Grocery, Convenience Stores",,212 Ralph Ave,Bedford Stuyvesant
+Fulton Convenience,,,,"Bakeries, Vitamins & Supplements, Bagels",,1128 Fulton St,Clinton Hill
+Paradise Bagel and Deli,7182414444,,,"Delis, Bagels",,2144 Ralph Ave,Georgetown
+Gloria Coffee Shop,,,,"Sandwiches, Coffee & Tea, Bagels",,1828 Schenectady Ave,Flatlands
+Areles Bagels,7184934270,,,Bagels,,331 Kingston Ave,Crown Heights
+Bushwick Bagels,3476783928,,,"Bagels, Sandwiches, Kosher",,2 Stanwix St,Bushwick
+Grilled & Cheesy,7183831600,,,"Food Delivery Services, Bagels, Sandwiches",,699 Manhattan Ave,Greenpoint
+Cyber,7183594523,,,Bagels,,152-23 Depot Rd,Auburndale
+Bagels and More,,,,Bagels,,34-15 103rd St,North Corona
+Bogaty Bagel and Coffee Shop,7182850700,,,"Coffee & Tea, Bagels, Food Delivery Services",,9522 Ave L,Canarsie
+Osorio Food Corp,3472401185,,,"Bagels, Sandwiches, Grocery",,2665 Pitkin Ave,East New York
+Big Bagel,,,,"Bagels, Delis",,7427 Metropolitan Ave,Middle Village
+J & A Bagels,9176185608,,,"Bagels, Food Delivery Services",,,
+New York Frozen Bagels,5163288600,,,Bagels,,1115 2nd Ave,
+Bagels for Lovers,7183213826,,,"Bakeries, Bagels",,32-51 Francis Lewis Blvd,Bayside
+Slims Bagels Unlimited,7182291140,,,"Bakeries, Bagels",,,Oakland Gardens
+Knights of Columbus Genl Sherman,7184452439,,$,Bagels,,16316 Pidgeon Meadow Rd,Flushing
+Brekkie Bagels,7185261300,,,Bagels,,87-48 Parsons Blvd,Jamaica
+Umiya Deli & Grocery,7184644624,,$,"Grocery, Bagels",,223-24 Union Tpke,Oakland Gardens
+Hot Bialys & Bagels,7185440900,,,"Breakfast & Brunch, Bagels",,116 63 Queens Blvd,Forest Hills
+Bora-Bora Bukovina,7187939200,,,"Breakfast & Brunch, Bagels",,11329 Queens Blvd,Forest Hills
+Direct Bagels,7188962221,,,"Bagels, Food Delivery Services",,104-41 Queens Blvd,Forest Hills
+M&O Bagels,7183232900,,,Bagels,,13210 Crossbay Blvd,Ozone Park
+Brekkie Bagels,,,,Bagels,,10305 Metropolitan Ave,Forest Hills
+Bagel City Gang,,,,Bagels,,Koszykowa 30,Śródmieście
+Davidovich Bakery,6465595058,,,"Bakeries, Bagels, Caterers",,79 Clinton St,Lower East Side
+Coffee Cart,,,,"Coffee & Tea, Bagels, Donuts",,240 Greenwich St,TriBeCa

@@ -1,0 +1,76 @@
+body {
+  font-size: 16px;
+  color: #000000;
+  background-color: #E8F8F5 ;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+	margin-top: 3em;
+	font-size: 4em;
+	margin-bottom: 0.5em;
+}
+
+/*
+.img-fluid{
+	height: 100%;
+	width: 100%;
+}*/
+
+#bagel_img{
+	height: 200px;
+}
+
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+
+html, body, main {
+    margin: 0;
+    height: 100%;
+}
+
+.whole{
+	height: 100%;
+}
+
+.vert .carousel-item-next.carousel-item-left,
+.vert .carousel-item-prev.carousel-item-right {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.vert .carousel-item-next,
+.vert .active.carousel-item-right {
+    -webkit-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100% 0);
+}
+
+.vert .carousel-item-prev,
+.vert .active.carousel-item-left {
+-webkit-transform: translate3d(0,-100%, 0);
+        transform: translate3d(0,-100%, 0);
+}
+
+#neighborhoodPopover { 
+  position: absolute;     
+  text-align: center;         
+  padding: 2px;       
+  font: 12px sans-serif;    
+  background: #fff; 
+  border: 0px;    
+  border-radius: 8px;     
+  pointer-events: none;
+  opacity: 0;     
+}
+
+#test{
+ margin-top: 100px;
+
+}
+
+
+
