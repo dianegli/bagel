@@ -3,6 +3,10 @@
 
 <style>
 
+  svg {
+  background: #efefef;
+}
+
 /*path {
 
   stroke: #fff;
@@ -42,6 +46,13 @@ var color = d3.scaleSequential(d3.interpolateGnBu).domain([0,120]);
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
+
+var zoom = d3.zoom()
+        .scaleExtent([1, 10])
+        .on('zoom', () => {
+            svg.attr('transform', d3.event.transform)
+        });
+
 
 d3.json("test3.json", function(error, nyc) {
   if (error) throw error;
@@ -84,10 +95,14 @@ d3.json("test3.json", function(error, nyc) {
       .transition()
       .style("opacity", 0);
 
-    });
+    })
 
     console.log(nyc);
 });
+
+svg.call(zoom);
+
+
 
 </script>
 </body>
