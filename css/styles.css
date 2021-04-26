@@ -12,25 +12,21 @@ h1 {
 	margin-bottom: 0.5em;
 }
 
+
 #text_w {
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-}
-
-
-#bagel_img{
-	height: 200px;
-  position:absolute; 
-  top:50%;
+  top:3em;
+  position:absolute;
   left:50%; 
   transform: translate(-50%);
 }
 
-#bagel_gif {
-	height:450px;
-	width: 450px;
-	margin-top: 30%;
+
+#bagel_img{
+	height: 400px;
+  position:absolute; 
+  top:30%;
+  left:50%; 
+  transform: translate(-50%);
 }
 
 .inline {
