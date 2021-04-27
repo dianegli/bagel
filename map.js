@@ -1,7 +1,7 @@
 //reference: https://bl.ocks.org/d3noob/7030f35b72de721622b8
 
 
-d3.json("test3.json", function(error, nyc) {
+d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
     if (error) throw error;
 
     var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
@@ -52,7 +52,7 @@ d3.json("test3.json", function(error, nyc) {
         .attr("d", path)
         .attr("stroke-width", 0.2)
         .attr("stroke", "white")
-        .attr('fill', function(d) { return color(Math.sqrt(d.properties.total_pop)); })
+        .attr('fill', function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
 
         .on("mouseenter", function(d) {
             console.log(d);
@@ -62,13 +62,13 @@ d3.json("test3.json", function(error, nyc) {
                 .style("opacity", 1)
                 .style("left", (d3.event.pageX) + "px")
                 .style("top", (d3.event.pageY) + "px")
-                .text(d.properties.ntaname + ", Total Population: " + d.properties.total_pop)
+                .text(d.properties.ntaname + ", Total Number of Bagel Shops: " + d.properties.count_bagel_shops)
 
         })
         .on("mouseleave", function(d) {
             d3.select(this)
                 .style("stroke-width", 0)
-                .style("fill", function(d) { return color(Math.sqrt(d.properties.total_pop)); })
+                .style("fill", function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
 
             d3.select("#neighborhoodPopoverountyText")
                 .transition()
