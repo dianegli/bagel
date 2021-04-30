@@ -10,17 +10,17 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
     var height = 820;
 
 
-    d3.select("#maptest").append("input")
-        .attr("type", "button")
-        .attr("value", "Toggle")
-        .attr("onclick", "togglePressed()");
+   // d3.select("#maptest").append("input")
+      //  .attr("type", "button")
+      //  .attr("value", "Show me the places with Good Bagels!")
+      //  .attr("onclick", "updateData()");
 
 
     var svg = d3.select("#maptest")
         .append("svg")
         .attr("width", width)
         .attr("height", height)
-        .style("background-color", '#E8F8F5');
+        .style("background-color", 'white');
 
 
 
@@ -50,9 +50,10 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
         .data(nyc.features)
         .enter().append("path")
         .attr("d", path)
-        .attr("stroke-width", 0.2)
-        .attr("stroke", "white")
+        .attr("stroke-width", 0.1)
+        .attr("stroke", "black")
         .attr('fill', function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
+        .style("opacity", 0.9)
 
         .on("mouseenter", function(d) {
             console.log(d);
@@ -60,25 +61,43 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
             d3.select("#neighborhoodPopover")
                 .transition()
                 .style("opacity", 1)
-                .style("left", (d3.event.pageX) + "px")
-                .style("top", (d3.event.pageY) + "px")
-                .text(d.properties.ntaname + ", Total Number of Bagel Shops: " + d.properties.count_bagel_shops)
+                .style("font-family", 'Roboto Mono')
+                .style("font-size", "1em")
+                .style("background-color","#e5f5e0")
+             //   .style("left", (d3.event.pageX) + "px")
+             //   .style("top", (d3.event.pageY) + "px")
+             //   .html("Neighborhood: <br>" +d.properties.ntaname)
+               // .attr("dy", "0em")
+                .text(d.properties.ntaname + "\n" + "# of 🥯 Shops: " +d.properties.count_bagel_shops)
 
         })
         .on("mouseleave", function(d) {
             d3.select(this)
-                .style("stroke-width", 0)
                 .style("fill", function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
-
             d3.select("#neighborhoodPopoverountyText")
                 .transition()
                 .style("opacity", 0);
 
-        });
+        })
 });
 
-function togglePressed() {
-    d3.select("#maptest").select("svg").transition().style("background-color", '#000000');
-    console.log("hello");
+
+function updateData() {
+        var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
+
+        d3.select("#maptest")
+          .select("svg")
+          .select("g")
+          .selectAll("path")
+          .transition()
+      //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
+          .attr("stroke-width", function(d) { return ((d.properties.rating_num >= 3.5) ? 0.6 : 0.1); })
+          .attr("opacity", function(d) { return ((d.properties.rating_num >= 3.5) ? 1 : 0.9); })
 
 };
+
+
+
+
+
+

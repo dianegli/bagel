@@ -1,16 +1,15 @@
 var svg = d3.select("#text_w").append("svg")
     .attr("width", 700)
     .attr("height", 700)
-    .attr("viewBox", "0 0 550 550")
-    ;
+    .attr("viewBox", "0 0 550 550");
 
 //Create an SVG arc starting at location [0,300], ending at [400,300] with a radius of 200 (circle)     
 var path = svg.append("path")
     .attr("id", "wavy") //A unique ID to reference later
     .attr("d", "M0,300 A300,300 0 0,1 550,300") //Notation for an SVG path
     .style("fill", "none")
-   // .style("stroke", "#AAAAAA")
-    ;
+// .style("stroke", "#AAAAAA")
+;
 
 //Create an SVG text element and append a textPath element
 var textArc = svg.append("text")

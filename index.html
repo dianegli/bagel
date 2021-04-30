@@ -5,7 +5,7 @@
     <title>Bagel</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css">
@@ -16,48 +16,40 @@
 
 <body>
     <main>
-        <div id="carouselExampleIndicators" class="carousel slide whole vert" data-interval="false">
-            <div class="carousel-inner whole">
-                <div class="carousel-item active">
-                    <div>
-                        <div>
-                            <script src="https://d3js.org/d3.v4.min.js"></script>
-                            <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-                            <script src="https://d3js.org/topojson.v1.min.js"></script>
-                            <div id="text_w"><img src="bagel_final.gif" alt="bagel" id="bagel_img"></div>
-                            <script src="moving_title.js"></script>
-                        </div>
-                    </div>
+        <div id="first_page">
+            <div class="row">
+                <div class="col-md-12">
+                    <script src="https://d3js.org/d3.v4.min.js"></script>
+                    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+                    <script src="https://d3js.org/topojson.v1.min.js"></script>
+                    <div id="text_w"><img src="bagel_final.gif" alt="bagel" id="bagel_img"></div>
+                    <script src="moving_title.js"></script>
                 </div>
-                <div class="carousel-item">
-                    <div class="row">
-                        <div class="col-md-6" id="test">
-                           <div id='maptest'></div>
-
-                           <script src="map.js"></script> 
-<!--                             <svg id='maphere' width="720" height="820"></svg>  --> 
-                            <div id='neighborhoodPopover'></div>
-
-                        </div>
-                        <div class="col-md-6">
-                            <div class="d-flex align-items-center justify-content-center" style="height: 350px">
-                                <div class="p-2 bd-highlight col-example">Add text here about map</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <div id="link" class="col-md-12"><a href="#second_page">Explore more</a>
+                    <a href="#second_page">
+                        <p><i class="arrow down"></i></p>
+                    </a>
                 </div>
             </div>
-            <!-- Transition buttons-->
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
+            <div id="second_page">
+                <div class="col-md-12"><a href="#first_page">
+                        <p><i class="arrow up"></i></p>
+                    </a>
+                    <a href="#first_page">Go back</a></div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <script src="map.js"></script>
+                        <div id='maptest'></div>
+                        <div id='neighborhoodPopover'></div>
+                        <button id="test" onclick="updateData()">Show Me highly <br> rated 🥯 areas</button>
+                    </div>
+                    <div class="col-md-6">
+                        <div id="bagel_desc" class="d-flex align-items-center justify-content-center" style="height: 350px">
+                            <div class="p-2 bd-highlight col-example">Bagels are arguably an important food group here in the Big Apple. And while we all may have our favorite go-to spot, how accessible are bagels to you in NYC? To explore the bagel landscape in NYC, we scraped data from Yelp on all bagel shops and mapped out which NYC census tracts has the highest number of accessible bagel shops. Not surprisingly, there high variation in the number of accessible shops depending on where you live. </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </main>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
