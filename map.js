@@ -1,4 +1,6 @@
 //reference: https://bl.ocks.org/d3noob/7030f35b72de721622b8
+//reference: https://medium.com/@louisemoxy/a-simple-way-to-make-d3-js-charts-svgs-responsive-7afb04bc2e4b
+// https://stackoverflow.com/questions/65553402/d3-change-svg-dimensions-on-resize-window
 
 
 d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
@@ -6,9 +8,23 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
 
     var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
 
-    var width = 800;
-    var height = 820;
+    var viewportWidth = $(window).width();
+   // console.log(viewportWidth);
+    var viewportHeight = $(window).height();
+   // var width = viewportWidth*2.5;
+   // var height = viewportHeight;
 
+   if (viewportWidth <= 375) {
+  viewportWidth_final = viewportWidth;
+} else {
+  viewportWidth_final = viewportWidth/2;
+};
+
+     // var width = viewportWidth;
+     // var height = viewportHeight/1.3;
+
+      var width = viewportWidth_final;
+      var height = viewportHeight/1.3;
 
    // d3.select("#maptest").append("input")
       //  .attr("type", "button")
@@ -20,6 +36,8 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
         .append("svg")
         .attr("width", width)
         .attr("height", height)
+        .attr("viewBox", "0 0 " + viewportWidth_final + " " + viewportHeight/1.3)
+        .attr("preserveAspectRatio", "xMidYMid meet")
         .style("background-color", 'white');
 
 

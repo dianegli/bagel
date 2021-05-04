@@ -2,7 +2,6 @@ body {
     font-size: 16px;
     color: #000000;
     background-color: white;
-    /*#E8F8F5 ;*/
     font-family: 'Roboto Mono', monospace;
     text-align: center;
 }
@@ -20,6 +19,14 @@ html {
 a {
     text-decoration: none;
     color: black;
+}
+
+#first_page {
+    height: 100vh;
+}
+
+#bagel_desc {
+ height: 100vh;
 }
 
 #second_page {
@@ -54,6 +61,10 @@ a {
     bottom: 1em;
     position: absolute;
 
+}
+
+.col-md-6 {
+     height: 100vh;
 }
 
 
@@ -96,24 +107,27 @@ p {
 }
 
 #bagel_desc {
-    padding: 2em;
+    text-align: justify;
+   text-justify: inter-word;
 }
 
 .inline {
     display: inline-block;
 }
 
+#maptest {
+    display:flex;
+    justify-content:center;
+}
 
+/*
 html,
 body,
 main {
     margin: 0;
     height: 100%;
-}
+}*/
 
-.whole {
-    height: 100%;
-}
 
 #neighborhoodPopover {
     position: absolute;

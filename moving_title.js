@@ -1,7 +1,21 @@
+var viewportWidth = $(window).width();
+console.log(viewportWidth);
+
+
+if (viewportWidth <= 375) {
+  viewportWidth_final = viewportWidth;
+} else {
+  viewportWidth_final = viewportWidth/2.5;
+};
+
+console.log(viewportWidth_final);
+
 var svg = d3.select("#text_w").append("svg")
-    .attr("width", 700)
-    .attr("height", 700)
+    .attr("width", viewportWidth_final)
+    .attr("height", viewportWidth_final)
     .attr("viewBox", "0 0 550 550");
+
+    
 
 //Create an SVG arc starting at location [0,300], ending at [400,300] with a radius of 200 (circle)     
 var path = svg.append("path")
@@ -18,7 +32,7 @@ var textArc = svg.append("text")
     .attr("xlink:href", "#wavy") //place the ID of the path here
     .attr("startOffset", "50%") //place the text halfway on the arc
     .text("Where are the NYC Bagels?")
-    .style("font-size", "38px");
+    .style("font-size", "35px");
 
 function repeat() {
     path
@@ -33,3 +47,4 @@ function repeat() {
 
 //Repeatedly change the arcs back and forth
 repeat();
+
