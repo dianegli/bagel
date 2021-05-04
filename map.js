@@ -14,7 +14,7 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
    // var width = viewportWidth*2.5;
    // var height = viewportHeight;
 
-   if (viewportWidth <= 375) {
+   if (viewportWidth <= 415) {
   viewportWidth_final = viewportWidth;
 } else {
   viewportWidth_final = viewportWidth/2;

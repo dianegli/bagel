@@ -2,7 +2,7 @@ var viewportWidth = $(window).width();
 console.log(viewportWidth);
 
 
-if (viewportWidth <= 375) {
+if (viewportWidth <= 415) {
   viewportWidth_final = viewportWidth;
 } else {
   viewportWidth_final = viewportWidth/2.5;
