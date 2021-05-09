@@ -1,44 +1,43 @@
 //reference: https://bl.ocks.org/d3noob/7030f35b72de721622b8
 //reference: https://medium.com/@louisemoxy/a-simple-way-to-make-d3-js-charts-svgs-responsive-7afb04bc2e4b
 // https://stackoverflow.com/questions/65553402/d3-change-svg-dimensions-on-resize-window
+//http://bl.ocks.org/pstuffa/38111aa2e3077baa67f1d0c42df9bf08
+// https://bl.ocks.org/martgnz/56664c7ea8efef56f93ca948ef855d06
 
-
-d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
+d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
     if (error) throw error;
 
     var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
 
+
     var viewportWidth = $(window).width();
-   // console.log(viewportWidth);
     var viewportHeight = $(window).height();
-   // var width = viewportWidth*2.5;
-   // var height = viewportHeight;
 
-   if (viewportWidth <= 415) {
-  viewportWidth_final = viewportWidth;
-} else {
-  viewportWidth_final = viewportWidth/2;
-};
+    if (viewportWidth <= 430) {
+        width = viewportWidth / 1.05;
+    } else {
+        width = 700;
+    };
 
-     // var width = viewportWidth;
-     // var height = viewportHeight/1.3;
+    // var width = viewportWidth;
+    // var height = viewportHeight/1.3
 
-      var width = viewportWidth_final;
-      var height = viewportHeight/1.3;
+    // d3.select("#maptest").append("input")
+    //  .attr("type", "button")
+    //  .attr("value", "Show me the places with Good Bagels!")
+    //  .attr("onclick", "updateData()");
 
-   // d3.select("#maptest").append("input")
-      //  .attr("type", "button")
-      //  .attr("value", "Show me the places with Good Bagels!")
-      //  .attr("onclick", "updateData()");
+
+    var height = 700;
 
 
     var svg = d3.select("#maptest")
         .append("svg")
         .attr("width", width)
         .attr("height", height)
-        .attr("viewBox", "0 0 " + viewportWidth_final + " " + viewportHeight/1.3)
-        .attr("preserveAspectRatio", "xMidYMid meet")
-        .style("background-color", 'white');
+        //    .attr("viewBox", "0 0 " + viewportWidth_final + " " + viewportHeight/1.3)
+        //    .attr("preserveAspectRatio", "xMidYMid meet")
+        .style("background-color", '#b3befc');
 
 
 
@@ -46,16 +45,40 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
 
 
     var zoom = d3.zoom()
-        .scaleExtent([1, 2])
-        .translateExtent([
-            [-500, -300],
-            [1500, 1000]
-        ])
+        .scaleExtent([1, 40])
+        //  .translateExtent([
+        //      [-500, -300],
+        //      [1500, 1000]
+        //  ])
         .on('zoom', () => {
             g.attr('transform', d3.event.transform)
         });
 
+
+    d3.select("#zoom_in").on("click", function() {
+        zoom.scaleBy(svg.transition().duration(750), 1.2);
+    });
+    d3.select("#zoom_out").on("click", function() {
+        zoom.scaleBy(svg.transition().duration(750), 0.8);
+    });
+
+    d3.select("#reset").on("click", function() {
+        svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity);
+    });
+
     svg.call(zoom);
+
+    svg.append("g")
+        .attr("class", "legendSequential")
+        .attr("transform", "translate(" + width / 1.5 + "," + height / 1.07 + ")");
+
+    var legendSequential = d3.legendColor()
+        .shapeWidth(30)
+        .cells(4)
+        .orient('horizontal')
+        .scale(color);
+
+    svg.select(".legendSequential").call(legendSequential);
 
 
     var path = d3.geoPath()
@@ -70,52 +93,59 @@ d3.json("data/tract_cen_bagels_geo.json", function(error, nyc) {
         .attr("d", path)
         .attr("stroke-width", 0.1)
         .attr("stroke", "black")
-        .attr('fill', function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
+        .attr('fill', function(d) { return color(Math.sqrt(d.properties.n_bagel_shops * 1000)); })
         .style("opacity", 0.9)
 
         .on("mouseenter", function(d) {
-            console.log(d);
+
+            d3.select(this)
+                .style("stroke-width", 0.1)
+                .style("stroke-dasharray", 1)
 
             d3.select("#neighborhoodPopover")
-                .transition()
-                .style("opacity", 1)
-                .style("font-family", 'Roboto Mono')
-                .style("font-size", "1em")
-                .style("background-color","#e5f5e0")
-             //   .style("left", (d3.event.pageX) + "px")
-             //   .style("top", (d3.event.pageY) + "px")
-             //   .html("Neighborhood: <br>" +d.properties.ntaname)
-               // .attr("dy", "0em")
-                .text(d.properties.ntaname + "\n" + "# of 🥯 Shops: " +d.properties.count_bagel_shops)
+                //  .transition()
+                //   .style("font-family", 'Roboto Mono')
+                .style("color", 'black')
+                .style("padding", "0.2em")
+                .style("font-size", "0.5em")
+                .style("background-color", "#e5f5e0")
+                .style("opacity", 0.8)
+                .style("left", (d3.event.pageX) + 10 + "px")
+                .style("top", (d3.event.pageY) - 30 + "px")
+                .html("<strong>" + d.properties.NTAName + "</strong>" + "<br/>" + "🥯 Shops: " + d.properties.n_bagel_shops)
 
         })
         .on("mouseleave", function(d) {
             d3.select(this)
-                .style("fill", function(d) { return color(Math.sqrt(d.properties.count_bagel_shops*1000)); })
-            d3.select("#neighborhoodPopoverountyText")
-                .transition()
-                .style("opacity", 0);
+                .style("stroke-width", 0.1)
+                .style("stroke-dasharray", 0)
+                .style("fill", function(d) { return color(Math.sqrt(d.properties.n_bagel_shops * 1000)); })
 
         })
+
+
 });
 
 
 function updateData() {
-        var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
+    var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
 
-        d3.select("#maptest")
-          .select("svg")
-          .select("g")
-          .selectAll("path")
-          .transition()
-      //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
-          .attr("stroke-width", function(d) { return ((d.properties.rating_num >= 3.5) ? 0.6 : 0.1); })
-          .attr("opacity", function(d) { return ((d.properties.rating_num >= 3.5) ? 1 : 0.9); })
+    d3.select("#maptest")
+        .select("svg")
+        .select("g")
+        .selectAll("path")
+        .transition()
+        //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
+        .attr("stroke-width", function(d) { return ((d.properties.rating_num >= 4) ? 0.6 : 0.1); })
+        .attr("opacity", function(d) { return ((d.properties.rating_num >= 4) ? 1 : 0.9); })
 
 };
 
 
-
-
-
-
+function reset() {
+    svg.transition().duration(750).call(
+        zoom.transform,
+        d3.zoomIdentity,
+        d3.zoomTransform(svg.node()).invert([width / 2, height / 2])
+    );
+};

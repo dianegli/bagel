@@ -2,10 +2,10 @@ var viewportWidth = $(window).width();
 console.log(viewportWidth);
 
 
-if (viewportWidth <= 415) {
-  viewportWidth_final = viewportWidth;
+if (viewportWidth <= 430) {
+    viewportWidth_final = viewportWidth;
 } else {
-  viewportWidth_final = viewportWidth/2.5;
+    viewportWidth_final = viewportWidth / 2.5;
 };
 
 console.log(viewportWidth_final);
@@ -15,7 +15,7 @@ var svg = d3.select("#text_w").append("svg")
     .attr("height", viewportWidth_final)
     .attr("viewBox", "0 0 550 550");
 
-    
+
 
 //Create an SVG arc starting at location [0,300], ending at [400,300] with a radius of 200 (circle)     
 var path = svg.append("path")
@@ -47,4 +47,3 @@ function repeat() {
 
 //Repeatedly change the arcs back and forth
 repeat();
-

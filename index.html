@@ -1,60 +1,71 @@
+<!-- https://greensock.com/st-demos/page/2/?d=19 -->
+
+
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="en" >
 <head>
-    <title>Bagel</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-    <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link rel="icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/279/bagel_1f96f.png">
+  <title>NYC Bagel</title>
+<meta name="viewport" content="user-scalable=no, width=device-width" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-</head>
 
+</head>
 <body>
-    <main>
-        <div id="first_page">
-            <div class="row">
-                <div class="col-md-12">
+<!-- partial:index.partial.html -->
+<div id="one" class="description panel blue">
+    <div>
+      <div class="col-md-12">
                     <script src="https://d3js.org/d3.v4.min.js"></script>
                     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
                     <script src="https://d3js.org/topojson.v1.min.js"></script>
                     <div id="text_w"><img src="bagel_final.gif" alt="bagel" id="bagel_img"></div>
                     <script src="moving_title.js"></script>
                 </div>
-                <div id="link" class="col-md-12"><a href="#second_page">Explore more</a>
-                    <a href="#second_page">
-                        <p><i class="arrow down"></i></p>
-                    </a>
-                </div>
-            </div>
-            </div>
-            <div id="second_page">
-                <div class="col-md-12"><a href="#first_page">
-                        <p><i class="arrow up"></i></p>
-                    </a>
-                    <a href="#first_page">Go back</a></div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <script src="map.js"></script>
-                        <div id='maptest'></div>
-                        <div id='neighborhoodPopover'></div>
-                        <button id="test" onclick="updateData()">Show Me highly <br> rated 🥯 areas</button>
-                    </div>
-                    <div class="col-md-6">
-                        <div id="bagel_desc" class="d-flex align-items-center justify-content-center" style="height: 350px">
-                            <div class="p-2 bd-highlight col-example">Bagels are arguably an important food group here in the Big Apple. And while we all may have our favorite go-to spot, how accessible are bagels to you in NYC? To explore the bagel landscape in NYC, we scraped data from Yelp on all bagel shops and mapped out which NYC census tracts has the highest number of accessible bagel shops. Not surprisingly, there high variation in the number of accessible shops depending on where you live. </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </main>
+      <div class="scroll-down">Scroll down<div class="arrow"></div></div>
+    </div>
+  </div>
+
+
+  <section id="two" class="panel red">
+    <p><span class="line line-1"></span>Bagels are arguably an important food group here in the Big Apple. And while we all may have our favorite go-to spot, how accessible are bagels to you in NYC? To explore the bagel landscape in NYC, we scraped data from Yelp on all bagel shops and mapped out which NYC census tracts has the highest number of accessible bagel shops. Not surprisingly, there high variation in the number of accessible shops depending on where you live.</p>
+  </section>
+
+  <section id="five" class="panel gray">
+
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js" integrity="sha512-wNH6xsp2n8CfB91nrBtfc4sfLwYPBMjSWVUwQOp60AYYXH6i8yCwuKFZ4rgK2i6pQek/b+bSyR7b01/922IBzQ==" crossorigin="anonymous"></script>
+             <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js" integrity="sha512-5mCB0Kvv97yTzqo0174qxPjMisck/WlK51+mw/RV7UfYbtHI8LuLR82BzZuxHUKSfbh75u9cZHgUcqrZDaBJuA==" crossorigin="anonymous"></script>
+  <div>
+          <div id="mapbutton">
+              <button id="zoom_in">+</button>
+              <button id="zoom_out">-</button>
+              <button id="reset">Reset</button>
+              <button id="test" onclick="updateData()">Highly-rated 🥯</button>
+           <div>
+          <div id='maptest'></div>
+          <script src="map.js"></script> 
+          <div id='neighborhoodPopover'></div>
+  </div>
+</section>
+
+
+
+<nav>
+  <div><a href="#one">Intro</a></div>
+  <div><a href="#two">About</a></div>
+  <div><a href="#five">Map</a></div>
+</nav>
+
+<!-- partial -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-</body>
+  <script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js?r=5426'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js?v=3.3.0-3'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.5/ScrollToPlugin.min.js'></script><script  src="./script.js"></script>
 
+</body>
 </html>
