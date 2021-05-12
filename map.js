@@ -14,9 +14,15 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
     var viewportHeight = $(window).height();
 
     if (viewportWidth <= 430) {
-        width = viewportWidth / 1.05;
+        width = viewportWidth / 1.3;
     } else {
         width = 700;
+    };
+
+    if (viewportWidth <= 430) {
+        height = viewportHeight/ 1.3;
+    } else {
+        height = 700;
     };
 
     // var width = viewportWidth;
@@ -26,9 +32,6 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
     //  .attr("type", "button")
     //  .attr("value", "Show me the places with Good Bagels!")
     //  .attr("onclick", "updateData()");
-
-
-    var height = 700;
 
 
     var svg = d3.select("#maptest")
