@@ -26,7 +26,6 @@ body {
 
 #maptest {
     font-size: 10px;
-
 }
 
 /*
@@ -43,7 +42,11 @@ body {
     opacity: 0;
 }*/
 
+.swatch {
+    stroke-width:1;
+    stroke:black;
 
+}
 
 
 #mapbutton button {
@@ -51,10 +54,13 @@ body {
     font-family: inherit;
     font-size: 0.7em;
     background: #D8A499;
-    border: 0px;
+    border-width: 0.5px;
+    border-color: black;
     margin-right: 5px;
     margin-bottom: 5px;
     height: 1.5em;
+    text-align:center;
+    vertical-align: middle;
 }
 
 #zoom_in,
