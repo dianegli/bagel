@@ -128,6 +128,7 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
 
 });
 
+//https://stackoverflow.com/questions/55147410/html-javascript-button-click-again-to-undo
 
 function updateData() {
     var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
