@@ -3,12 +3,55 @@
 // https://stackoverflow.com/questions/65553402/d3-change-svg-dimensions-on-resize-window
 //http://bl.ocks.org/pstuffa/38111aa2e3077baa67f1d0c42df9bf08
 // https://bl.ocks.org/martgnz/56664c7ea8efef56f93ca948ef855d06
+//http://bl.ocks.org/enactdev/a647e60b209e67602304
+
+
+var default_width = 500;
+var default_height = 500;
+var default_ratio = default_width / default_height;
+
+var margin = {top: 5, right: 10, bottom: 10, left: 5},
+    width = default_width - margin.left - margin.right,
+    height = default_height - margin.top - margin.bottom;
+
+
+// Determine current size, which determines vars
+function set_vars() {
+  //alert('setting vars')
+  current_width = window.innerWidth;
+  current_height = window.innerHeight;
+
+  current_ratio = current_width / current_height;
+
+  // Check if height is limiting factor
+  if ( current_ratio > default_ratio ){
+    h = current_height;
+    w = h * default_ratio;
+  // Else width is limiting
+  } else {
+    w = current_width;
+    h = w / default_ratio;
+  }
+
+  // Set new width and height based on graph dimensions
+  width = w - margin.left - margin.right;
+  height = h - margin.top - margin.bottom;
+
+};
+
+set_vars();
+console.log(width)
+
+function drawGraphic() {
 
 d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
     if (error) throw error;
 
     var color = d3.scaleSequential(d3.interpolateYlGnBu).domain([0,16]);
 
+
+
+/*
     var viewportWidth = $(window).width();
     var viewportHeight = $(window).height();
 
@@ -22,7 +65,10 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
         height = viewportHeight/ 1.7;
     } else {
         height = 700;
-    };
+    };*/
+
+
+
 
     // var width = viewportWidth;
     // var height = viewportHeight/1.3
@@ -128,6 +174,24 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
 
 
 });
+
+}; 
+
+drawGraphic();
+
+// Use a timer so the chart is not constantly redrawn while window is being resized.
+var resizeTimer;
+window.onresize = function(event) {
+ clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(function()
+  {
+    var s = d3.selectAll('svg');
+    s = s.remove();
+    set_vars();
+    drawGraphic();
+  }, 100);
+}
+
 
 //https://stackoverflow.com/questions/55147410/html-javascript-button-click-again-to-undo
 

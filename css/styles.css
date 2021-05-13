@@ -93,7 +93,7 @@ body {
 }
 
 nav {
-    position: absolute;
+    position: fixed;
     top: 10px;
     right: 10px;
     background: #D8A499;
@@ -102,7 +102,6 @@ nav {
     border-width: 1px;
     border-radius: 5px;
     padding: 0px 10px;
-    box-sizing: border-box;
 }
 
 nav a {
