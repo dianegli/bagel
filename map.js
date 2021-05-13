@@ -18,8 +18,8 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
         width = 700;
     };
 
-    if (viewportWidth <= 430) {
-        height = viewportHeight/ 1.3;
+    if (viewportWidth <= 700) {
+        height = viewportHeight/ 1.7;
     } else {
         height = 700;
     };
@@ -38,7 +38,8 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
         .attr("width", width)
         .attr("height", height)
         .style("border","1px solid black")
-        .style("background-color", "white");
+        .style("background-color", "white")
+        .style("border-radius","1em");
         //    .attr("viewBox", "0 0 " + viewportWidth_final + " " + viewportHeight/1.3)
         //    .attr("preserveAspectRatio", "xMidYMid meet")
        // .style("background-color", '#b3befc');
