@@ -131,14 +131,20 @@ d3.json("data/cen_tract_nta_final_geo.json", function(error, nyc) {
 
 //https://stackoverflow.com/questions/55147410/html-javascript-button-click-again-to-undo
 
-function updateData() {
-    var color = d3.scaleSequential(d3.interpolateGnBu).domain([0, 120]);
+var flag = true;
 
-    d3.select("#maptest")
+function updateData() {
+
+ var color = d3.scaleSequential(d3.interpolateYlGnBu).domain([0, 16]);
+
+ if (flag) {
+
+        d3.select("#maptest")
         .select("svg")
         .selectAll("g")
         .selectAll("path")
         .transition(200)
+        .attr('fill', function(d) { return color(d.properties.n_bagel_shops);})
         //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
         //.attr("stroke-width", function(d) { return ((d.properties.rating_num >= 4) ? 0.6 : 0.1); })
         //.attr("opacity", function(d) { return ((d.properties.rating_num >= 4) ? 1 : 0.9); })
@@ -146,14 +152,41 @@ function updateData() {
         .style("opacity", function(d) { return ((d.properties.rating_num >= 4) ? 1 : 0.2); })
 
 
+   //  d3.select("#maptest")
+   //     .select("g.legendSequential")
+   //     .transition(200)
+   //     .remove()
 
-     d3.select("#maptest")
-        .select("g.legendSequential")
+
+
+ } else {
+
+
+    d3.select("#maptest")
+        .select("svg")
+        .selectAll("g")
+        .selectAll("path")
         .transition(200)
-        .remove()
+        .style("opacity", 1)
+
+
+     }
+     
+     flag = !flag   
 
 };
 
+function undoData() {
+
+  var color = d3.scaleSequential(d3.interpolateYlGnBu).domain([0, 16]);
+
+    d3.select("#maptest")
+        .select("svg")
+        .selectAll("g")
+        .selectAll("path")
+        .transition(200)
+        .style("opacity", 1)
+};
 
 function reset() {
     svg.transition().duration(750).call(
