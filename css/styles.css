@@ -22,11 +22,13 @@ body {
 #neighborhoodPopover {
     position: absolute;
     pointer-events: none;
+    float: left;
 }
 
 #maptest {
     font-size: 10px;
 }
+
 
 /*
 
@@ -64,6 +66,7 @@ body {
     border-radius: 1em;
 }
 
+
 #zoom_in,
 #zoom_out {
     height: 1.5em;
@@ -75,8 +78,26 @@ body {
 }
 
 #mapbutton button:click {
-    border: 1px;
+    background-color: #a1d99b;
+    border: 0;
+    outline:none;
 }
+
+
+.active {
+    border: none;
+    color: white;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+/*#mapbutton button:focus{background-color:red;}*/
+/*
+#mapbutton button:active {
+  background-color:red;
+};*/
 
 /**/
 
