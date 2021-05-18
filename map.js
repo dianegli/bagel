@@ -133,12 +133,12 @@ function drawGraphic() {
 
         svg.append("g")
             .attr("class", "legendSequential")
-            .attr("transform", "translate(" + ((width / 2) - 96) + "," + height / 1.09 + ")");
+            .attr("transform", "translate(" + ((width / 2) - 80) + "," + height / 1.09 + ")");
         //  .attr("transform", "translate(" + width / 1.5 + "," + height / 1.07 + ")");
 
         var legendSequential = d3.legendColor()
             .shapeWidth(30)
-            .cells(6)
+            .cells(5)
             .orient('horizontal')
             .scale(color);
 
@@ -157,7 +157,7 @@ function drawGraphic() {
             .attr("d", path)
             .attr("stroke-width", 0.33)
             .attr("stroke", "black")
-            .attr('fill', function(d) { return color(d.properties.n_bagel_shops); })
+            .attr('fill', function(d) {return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' :color(d.properties.n_bagel_shops);})
 
             .on("mouseenter", function(d) {
 
@@ -219,7 +219,7 @@ function updateData() {
             .selectAll("g")
             .selectAll("path")
             .transition(200)
-            .attr('fill', function(d) { return color(d.properties.n_bagel_shops); })
+            .attr('fill', function(d) { return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' :color(d.properties.n_bagel_shops);})
             //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
             //.attr("stroke-width", function(d) { return ((d.properties.rating_num >= 4) ? 0.6 : 0.1); })
             //.attr("opacity", function(d) { return ((d.properties.rating_num >= 4) ? 1 : 0.9); })
@@ -248,17 +248,6 @@ function updateData() {
 
 };
 
-function undoData() {
-
-    var color = d3.scaleSequential(d3.interpolateYlGnBu).domain([0, 16]);
-
-    d3.select("#maptest")
-        .select("svg")
-        .selectAll("g")
-        .selectAll("path")
-        .transition(200)
-        .style("opacity", 1)
-};
 
 function reset() {
     svg.transition().duration(750).call(

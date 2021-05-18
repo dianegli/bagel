@@ -54,7 +54,9 @@ gsap.utils.toArray("nav a").forEach(function(a) {
 
 
 
-
+$('.toggle-button').click( function() {
+    $('.toggle-button').toggleClass('active');
+});
 
 // possible solution for old iOS bugs that don't display things inside an iframe correctly. Create a --full-height CSS variable and use it instead of height: 100%
 // function readHeight() {

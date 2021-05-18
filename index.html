@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="css/styles.css">
 
      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+     <script src="https://code.jquery.com/jquery-1.12.3.js" integrity="sha256-1XMpEtA4eKXNNpXcJ1pmMPs8JV+nwLdEqwiJeCQEkyc=" crossorigin="anonymous"></script>
 
 </head>
 <body>
@@ -46,9 +47,8 @@
           <div id="mapbutton">
               <button id="zoom_in">+</button>
               <button id="zoom_out">-</button>
-              <button id="reset">Reset</button>
-              <button id="test" onclick="updateData()">Areas with Highly-rated 🥯</button>
-              <button onclick="undoData()">Undo 🥯</button>
+              <button id="reset">Reset zoom</button>
+              <button id="test" class="toggle-button" onclick="updateData()">Highly-rated 🥯 Areas</button>
            <div>
           <div id='maptest'></div>
           <script src="map.js"></script> 
