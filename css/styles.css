@@ -45,8 +45,8 @@ body {
 }*/
 
 .swatch {
-    stroke-width:1;
-    stroke:black;
+    stroke-width: 1;
+    stroke: black;
 
 }
 
@@ -61,7 +61,7 @@ body {
     margin-right: 5px;
     margin-bottom: 5px;
     height: 1.5em;
-    text-align:center;
+    text-align: center;
     vertical-align: middle;
     border-radius: 1em;
 }
@@ -80,7 +80,7 @@ body {
 #mapbutton button:click {
     background-color: #a1d99b;
     border: 0;
-    outline:none;
+    outline: none;
 }
 
 
@@ -90,9 +90,10 @@ body {
 }
 
 button:focus {
-  outline: none;
-  box-shadow: none;
+    outline: none;
+    box-shadow: none;
 }
+
 /*#mapbutton button:focus{background-color:red;}*/
 /*
 #mapbutton button:active {
@@ -256,12 +257,11 @@ header {
 }
 
 
-@media
-only screen and (-webkit-min-device-pixel-ratio: 1.5),
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
-only screen and (min-device-pixel-ratio: 1.5){
-/*
+only screen and (min-device-pixel-ratio: 1.5) {
+    /*
   html,
   body{
     width:100%;

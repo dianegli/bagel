@@ -54,7 +54,7 @@ gsap.utils.toArray("nav a").forEach(function(a) {
 
 
 
-$('.toggle-button').click( function() {
+$('.toggle-button').click(function() {
     $('.toggle-button').toggleClass('active');
 });
 
