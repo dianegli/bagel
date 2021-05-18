@@ -36,7 +36,7 @@ function set_vars() {
 
     if (current_width <= 430) {
         h = 600
-        w = 400
+        w = 500
         margin.top = 0;
         margin.bottom = 0;
 
@@ -157,7 +157,7 @@ function drawGraphic() {
             .attr("d", path)
             .attr("stroke-width", 0.33)
             .attr("stroke", "black")
-            .attr('fill', function(d) {return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' :color(d.properties.n_bagel_shops);})
+            .attr('fill', function(d) { return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' : color(d.properties.n_bagel_shops); })
 
             .on("mouseenter", function(d) {
 
@@ -219,7 +219,7 @@ function updateData() {
             .selectAll("g")
             .selectAll("path")
             .transition(200)
-            .attr('fill', function(d) { return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' :color(d.properties.n_bagel_shops);})
+            .attr('fill', function(d) { return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' : color(d.properties.n_bagel_shops); })
             //    .style("stroke", function(d) { return ((d.properties.rating_num >= 3.5) ? 'black' : 'white'); })
             //.attr("stroke-width", function(d) { return ((d.properties.rating_num >= 4) ? 0.6 : 0.1); })
             //.attr("opacity", function(d) { return ((d.properties.rating_num >= 4) ? 1 : 0.9); })
