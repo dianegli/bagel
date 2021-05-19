@@ -35,7 +35,7 @@ function set_vars() {
 
 
     if (current_width <= 430) {
-        h = 600
+        h = 500
         w = 500
         margin.top = 0;
         margin.bottom = 0;
