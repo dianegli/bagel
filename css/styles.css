@@ -5,6 +5,9 @@ body {
     /* -webkit-overflow-scrolling: touch;*/
    /* overflow-scrolling: touch;*/
     font-family: 'Roboto Mono', monospace;
+      min-height: -webkit-fill-available;
+       height: -webkit-fill-available;
+
 }
 
 /*Bagel*/
