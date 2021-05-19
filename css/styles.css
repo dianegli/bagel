@@ -2,8 +2,8 @@ html,
 body {
     margin: 0;
     height: 100%;
-    -webkit-overflow-scrolling: touch;
-    overflow-scrolling: touch;
+    /* -webkit-overflow-scrolling: touch;*/
+   /* overflow-scrolling: touch;*/
     font-family: 'Roboto Mono', monospace;
 }
 
@@ -51,15 +51,15 @@ body {
 }
 
 
-#mapbutton button {
+button {
     float: left;
     font-family: inherit;
     font-size: 0.7em;
-    background: #D8A499;
+    background: #E6A0C4;
     border-width: 0.5px;
     border-color: black;
     margin-right: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     height: 1.5em;
     text-align: center;
     vertical-align: middle;
@@ -73,11 +73,11 @@ body {
     width: 1.5em;
 }
 
-#mapbutton button:hover {
+button:hover {
     background-color: #a1d99b;
 }
 
-#mapbutton button:click {
+button:click {
     background-color: #a1d99b;
     border: 0;
     outline: none;
@@ -261,11 +261,11 @@ header {
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
-    /*
+    
   html,
   body{
     width:100%;
-    overflow-x:hidden;
+   /* overflow-x:hidden;*/
   }
 
-}*
+}

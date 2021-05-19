@@ -155,7 +155,7 @@ function drawGraphic() {
             .data(nyc.features)
             .enter().append("path")
             .attr("d", path)
-            .attr("stroke-width", 0.33)
+            .attr("stroke-width", 0.20)
             .attr("stroke", "black")
             .attr('fill', function(d) { return d.properties.park_cemetery_flag == 1 ? '#F5F5F5' : color(d.properties.n_bagel_shops); })
 
@@ -163,7 +163,8 @@ function drawGraphic() {
 
                 d3.select(this)
                     .style("stroke-width", 1.5)
-                    .style("stroke-dasharray", 3)
+                    .style("opacity", 0.5)
+                   // .style("stroke-dasharray", 3)
 
                 d3.select("#neighborhoodPopover")
                     //  .transition()
@@ -179,8 +180,9 @@ function drawGraphic() {
             })
             .on("mouseleave", function(d) {
                 d3.select(this)
-                    .style("stroke-width", 0.33)
-                    .style("stroke-dasharray", 0)
+                    .style("stroke-width", 0.20)
+                    .style("opacity", 1)
+                   // .style("stroke-dasharray", 0)
 
             })
 
