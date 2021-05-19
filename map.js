@@ -163,12 +163,13 @@ function drawGraphic() {
 
                 d3.select(this)
                     .style("stroke-width", 1.5)
-                    .style("opacity", 0.5)
+                  //  .style("opacity", 0.5)
                    // .style("stroke-dasharray", 3)
 
                 d3.select("#neighborhoodPopover")
                     //  .transition()
                     //   .style("font-family", 'Roboto Mono')
+                    .style("opacity", 1)
                     .style("color", 'black')
                     .style("padding", "0.2em")
                     .style("font-size", "0.5em")
@@ -181,7 +182,9 @@ function drawGraphic() {
             .on("mouseleave", function(d) {
                 d3.select(this)
                     .style("stroke-width", 0.20)
-                    .style("opacity", 1)
+                //    .style("opacity", 1)
+
+                 d3.select("#neighborhoodPopover").style("opacity", 0)
                    // .style("stroke-dasharray", 0)
 
             })
@@ -202,7 +205,7 @@ window.onresize = function(event) {
         s = s.remove();
         set_vars();
         drawGraphic();
-    }, 100);
+    }, 1000);
 }
 
 
