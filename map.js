@@ -14,7 +14,6 @@ var margin = { top: 150, right: 10, bottom: 10, left: 150 },
     width = default_width - margin.left - margin.right,
     height = default_height - margin.top - margin.bottom;
 
-
 // Determine current size, which determines vars
 function set_vars() {
     //alert('setting vars')
@@ -52,7 +51,6 @@ function set_vars() {
 };
 
 set_vars();
-console.log(width)
 
 function drawGraphic() {
 
@@ -162,7 +160,7 @@ function drawGraphic() {
             .on("mouseenter", function(d) {
 
                 d3.select(this)
-                    .style("stroke-width", 1.5)
+                    .style("stroke-width", 1)
                   //  .style("opacity", 0.5)
                    // .style("stroke-dasharray", 3)
 

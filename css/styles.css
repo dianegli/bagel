@@ -96,6 +96,12 @@ button:focus {
     box-shadow: none;
 }
 
+#caption {
+    font-size: 0.5em;
+    color:black;
+    float: left;
+}
+
 /*#mapbutton button:focus{background-color:red;}*/
 /*
 #mapbutton button:active {
